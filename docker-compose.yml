@@ -1,0 +1,23 @@
+# Only Postgres + pgvector runs in Docker. Everything else runs natively to save RAM.
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: veltrix-db
+    environment:
+      POSTGRES_USER: app
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-app}
+      POSTGRES_DB: veltrix
+    # Bound to localhost only, so the database is not reachable from your Wi-Fi/LAN.
+    ports:
+      - "127.0.0.1:5433:5432"   # 5433 on your machine, so it can run next to other Postgres servers
+    volumes:
+      - veltrix-pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U app -d veltrix"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+volumes:
+  veltrix-pgdata:

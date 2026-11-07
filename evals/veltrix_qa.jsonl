@@ -1,0 +1,488 @@
+{"id": "Q001", "question": "How much total capital has Veltrix Systems raised?", "answer": "$136.5M", "sources": ["company/funding.md"], "type": "single-hop"}
+{"id": "Q002", "question": "Which investor led the Series B round and how much was raised?", "answer": "Harbourline Capital led the $32M Series B in July 2019.", "sources": ["company/funding.md"], "type": "single-hop"}
+{"id": "Q003", "question": "Who founded Veltrix Systems and when?", "answer": "Ananya Rao and Vikram Menon in March 2014.", "sources": ["company/overview.md", "company/history.md"], "type": "single-hop"}
+{"id": "Q004", "question": "In which year was the Berlin office opened?", "answer": "2021", "sources": ["company/history.md", "offices/berlin.md"], "type": "single-hop"}
+{"id": "Q005", "question": "What is the address of the Bengaluru office?", "answer": "Tower B, 6th Floor, Meridian Tech Park, Outer Ring Road, Bellandur, Bengaluru 560103", "sources": ["offices/bengaluru.md"], "type": "single-hop"}
+{"id": "Q006", "question": "Who is the site lead for the Bengaluru office?", "answer": "Ananya Rao", "sources": ["offices/bengaluru.md"], "type": "single-hop"}
+{"id": "Q007", "question": "What is the address of the Kochi office?", "answer": "Block 3, Cyberpark Phase II, Kakkanad, Kochi 682042", "sources": ["offices/kochi.md"], "type": "single-hop"}
+{"id": "Q008", "question": "Who is the site lead for the Kochi office?", "answer": "Vikram Menon", "sources": ["offices/kochi.md"], "type": "single-hop"}
+{"id": "Q009", "question": "What is the address of the Pune office?", "answer": "Level 4, Riverstone Business Bay, Kharadi, Pune 411014", "sources": ["offices/pune.md"], "type": "single-hop"}
+{"id": "Q010", "question": "Who is the site lead for the Pune office?", "answer": "Priya Deshmukh", "sources": ["offices/pune.md"], "type": "single-hop"}
+{"id": "Q011", "question": "What is the address of the Singapore office?", "answer": "#12-04, 80 Marina Crescent, Singapore 018989", "sources": ["offices/singapore.md"], "type": "single-hop"}
+{"id": "Q012", "question": "Who is the site lead for the Singapore office?", "answer": "Kenji Tan", "sources": ["offices/singapore.md"], "type": "single-hop"}
+{"id": "Q013", "question": "What is the address of the Berlin office?", "answer": "Kastanienallee 118, 10435 Berlin", "sources": ["offices/berlin.md"], "type": "single-hop"}
+{"id": "Q014", "question": "Who is the site lead for the Berlin office?", "answer": "Sarah Lindqvist", "sources": ["offices/berlin.md"], "type": "single-hop"}
+{"id": "Q015", "question": "What is the address of the Austin office?", "answer": "Suite 900, 300 Congress Ridge Ave, Austin, TX 78701", "sources": ["offices/austin.md"], "type": "single-hop"}
+{"id": "Q016", "question": "Who is the site lead for the Austin office?", "answer": "Daniel Ortiz", "sources": ["offices/austin.md"], "type": "single-hop"}
+{"id": "Q017", "question": "What is the list price of the Professional tier of VeltrixCore?", "answer": "$1,499 per 1,000 connected devices per month", "sources": ["products/veltrixcore/pricing.md"], "type": "single-hop"}
+{"id": "Q018", "question": "Who is the product owner of VeltrixCore?", "answer": "Shreya Mehta", "sources": ["products/veltrixcore/overview.md"], "type": "single-hop"}
+{"id": "Q019", "question": "In which year was VeltrixCore launched?", "answer": "2015", "sources": ["products/veltrixcore/overview.md"], "type": "single-hop"}
+{"id": "Q020", "question": "What is the current version of VeltrixCore?", "answer": "3.0, released 03 Jun 2026", "sources": ["products/veltrixcore/overview.md", "products/veltrixcore/release-notes.md"], "type": "single-hop"}
+{"id": "Q021", "question": "What is the API rate limit for VeltrixCore?", "answer": "3000 requests per minute per API key", "sources": ["products/veltrixcore/technical-specs.md"], "type": "single-hop"}
+{"id": "Q022", "question": "Which VeltrixCore release fixed 'Resolved slow login for users belonging to more than 200 groups'?", "answer": "Version 2.0 (16 Sep 2024)", "sources": ["products/veltrixcore/release-notes.md"], "type": "single-hop"}
+{"id": "Q023", "question": "What is the list price of the Professional tier of PulseMonitor?", "answer": "$29 per monitored asset per month", "sources": ["products/pulsemonitor/pricing.md"], "type": "single-hop"}
+{"id": "Q024", "question": "Who is the product owner of PulseMonitor?", "answer": "Deepa Pillai", "sources": ["products/pulsemonitor/overview.md"], "type": "single-hop"}
+{"id": "Q025", "question": "In which year was PulseMonitor launched?", "answer": "2017", "sources": ["products/pulsemonitor/overview.md"], "type": "single-hop"}
+{"id": "Q026", "question": "What is the current version of PulseMonitor?", "answer": "7.0, released 04 Jun 2026", "sources": ["products/pulsemonitor/overview.md", "products/pulsemonitor/release-notes.md"], "type": "single-hop"}
+{"id": "Q027", "question": "What is the API rate limit for PulseMonitor?", "answer": "3000 requests per minute per API key", "sources": ["products/pulsemonitor/technical-specs.md"], "type": "single-hop"}
+{"id": "Q028", "question": "Which PulseMonitor release fixed 'Fixed charts failing to render when a series contained null values'?", "answer": "Version 6.0 (22 Jan 2024)", "sources": ["products/pulsemonitor/release-notes.md"], "type": "single-hop"}
+{"id": "Q029", "question": "What is the list price of the EL-500 tier of EdgeLink Gateway?", "answer": "$1,290 per device, one-time hardware price (software licence billed separately at $120 per device per year)", "sources": ["products/edgelink-gateway/pricing.md"], "type": "single-hop"}
+{"id": "Q030", "question": "Who is the product owner of EdgeLink Gateway?", "answer": "Sanjay Kamath", "sources": ["products/edgelink-gateway/overview.md"], "type": "single-hop"}
+{"id": "Q031", "question": "In which year was EdgeLink Gateway launched?", "answer": "2016", "sources": ["products/edgelink-gateway/overview.md"], "type": "single-hop"}
+{"id": "Q032", "question": "What is the current version of EdgeLink Gateway?", "answer": "5.0, released 09 Aug 2026", "sources": ["products/edgelink-gateway/overview.md", "products/edgelink-gateway/release-notes.md"], "type": "single-hop"}
+{"id": "Q033", "question": "What is the API rate limit for EdgeLink Gateway?", "answer": "1200 requests per minute per API key", "sources": ["products/edgelink-gateway/technical-specs.md"], "type": "single-hop"}
+{"id": "Q034", "question": "Which EdgeLink Gateway release fixed 'Fixed duplicate alert notifications when rules overlapped'?", "answer": "Version 4.0 (14 Mar 2024)", "sources": ["products/edgelink-gateway/release-notes.md"], "type": "single-hop"}
+{"id": "Q035", "question": "What is the list price of the Professional tier of FlowSense?", "answer": "$18 per flow meter per month", "sources": ["products/flowsense/pricing.md"], "type": "single-hop"}
+{"id": "Q036", "question": "Who is the product owner of FlowSense?", "answer": "Ashley Garcia", "sources": ["products/flowsense/overview.md"], "type": "single-hop"}
+{"id": "Q037", "question": "In which year was FlowSense launched?", "answer": "2018", "sources": ["products/flowsense/overview.md"], "type": "single-hop"}
+{"id": "Q038", "question": "What is the current version of FlowSense?", "answer": "6.0, released 14 Aug 2025", "sources": ["products/flowsense/overview.md", "products/flowsense/release-notes.md"], "type": "single-hop"}
+{"id": "Q039", "question": "What is the API rate limit for FlowSense?", "answer": "1200 requests per minute per API key", "sources": ["products/flowsense/technical-specs.md"], "type": "single-hop"}
+{"id": "Q040", "question": "Which FlowSense release fixed 'Corrected unit conversion for imperial pressure readings (psi)'?", "answer": "Version 5.0 (18 Apr 2024)", "sources": ["products/flowsense/release-notes.md"], "type": "single-hop"}
+{"id": "Q041", "question": "What is the list price of the Professional tier of GridWise?", "answer": "$599 per site per month", "sources": ["products/gridwise/pricing.md"], "type": "single-hop"}
+{"id": "Q042", "question": "Who is the product owner of GridWise?", "answer": "Deepa Pillai", "sources": ["products/gridwise/overview.md"], "type": "single-hop"}
+{"id": "Q043", "question": "In which year was GridWise launched?", "answer": "2019", "sources": ["products/gridwise/overview.md"], "type": "single-hop"}
+{"id": "Q044", "question": "What is the current version of GridWise?", "answer": "3.0, released 03 Mar 2026", "sources": ["products/gridwise/overview.md", "products/gridwise/release-notes.md"], "type": "single-hop"}
+{"id": "Q045", "question": "What is the API rate limit for GridWise?", "answer": "600 requests per minute per API key", "sources": ["products/gridwise/technical-specs.md"], "type": "single-hop"}
+{"id": "Q046", "question": "Which GridWise release fixed 'Fixed mobile push notifications not delivered on Android 14'?", "answer": "Version 2.0 (08 Feb 2024)", "sources": ["products/gridwise/release-notes.md"], "type": "single-hop"}
+{"id": "Q047", "question": "What is the list price of the Professional tier of SentryVision?", "answer": "$70 per camera stream per month", "sources": ["products/sentryvision/pricing.md"], "type": "single-hop"}
+{"id": "Q048", "question": "Who is the product owner of SentryVision?", "answer": "Aswin Abraham", "sources": ["products/sentryvision/overview.md"], "type": "single-hop"}
+{"id": "Q049", "question": "In which year was SentryVision launched?", "answer": "2021", "sources": ["products/sentryvision/overview.md"], "type": "single-hop"}
+{"id": "Q050", "question": "What is the current version of SentryVision?", "answer": "7.0, released 19 Jul 2026", "sources": ["products/sentryvision/overview.md", "products/sentryvision/release-notes.md"], "type": "single-hop"}
+{"id": "Q051", "question": "What is the API rate limit for SentryVision?", "answer": "3000 requests per minute per API key", "sources": ["products/sentryvision/technical-specs.md"], "type": "single-hop"}
+{"id": "Q052", "question": "Which SentryVision release fixed 'Fixed timezone offset errors in scheduled reports around DST changes'?", "answer": "Version 6.0 (10 Mar 2024)", "sources": ["products/sentryvision/release-notes.md"], "type": "single-hop"}
+{"id": "Q053", "question": "What is the list price of the Professional tier of TraceChain?", "answer": "$899 per 10,000 tracked units per month", "sources": ["products/tracechain/pricing.md"], "type": "single-hop"}
+{"id": "Q054", "question": "Who is the product owner of TraceChain?", "answer": "Aswin Abraham", "sources": ["products/tracechain/overview.md"], "type": "single-hop"}
+{"id": "Q055", "question": "In which year was TraceChain launched?", "answer": "2020", "sources": ["products/tracechain/overview.md"], "type": "single-hop"}
+{"id": "Q056", "question": "What is the current version of TraceChain?", "answer": "4.0, released 31 Oct 2025", "sources": ["products/tracechain/overview.md", "products/tracechain/release-notes.md"], "type": "single-hop"}
+{"id": "Q057", "question": "What is the API rate limit for TraceChain?", "answer": "1200 requests per minute per API key", "sources": ["products/tracechain/technical-specs.md"], "type": "single-hop"}
+{"id": "Q058", "question": "Which TraceChain release fixed 'Fixed CSV exports truncating rows beyond 1,048,576'?", "answer": "Version 3.0 (08 Feb 2024)", "sources": ["products/tracechain/release-notes.md"], "type": "single-hop"}
+{"id": "Q059", "question": "What is the list price of the Professional tier of Atlas BI?", "answer": "$55 per named user per month", "sources": ["products/atlas-bi/pricing.md"], "type": "single-hop"}
+{"id": "Q060", "question": "Who is the product owner of Atlas BI?", "answer": "Lakshmi Reddy", "sources": ["products/atlas-bi/overview.md"], "type": "single-hop"}
+{"id": "Q061", "question": "In which year was Atlas BI launched?", "answer": "2018", "sources": ["products/atlas-bi/overview.md"], "type": "single-hop"}
+{"id": "Q062", "question": "What is the current version of Atlas BI?", "answer": "5.0, released 09 Oct 2026", "sources": ["products/atlas-bi/overview.md", "products/atlas-bi/release-notes.md"], "type": "single-hop"}
+{"id": "Q063", "question": "What is the API rate limit for Atlas BI?", "answer": "3000 requests per minute per API key", "sources": ["products/atlas-bi/technical-specs.md"], "type": "single-hop"}
+{"id": "Q064", "question": "Which Atlas BI release fixed 'Fixed timezone offset errors in scheduled reports around DST changes'?", "answer": "Version 4.0 (25 Feb 2024)", "sources": ["products/atlas-bi/release-notes.md"], "type": "single-hop"}
+{"id": "Q065", "question": "What is the list price of the Professional tier of ForgeML?", "answer": "$2,400 per workspace per month (includes 500 GPU-hours on Enterprise)", "sources": ["products/forgeml/pricing.md"], "type": "single-hop"}
+{"id": "Q066", "question": "Who is the product owner of ForgeML?", "answer": "Akash Das", "sources": ["products/forgeml/overview.md"], "type": "single-hop"}
+{"id": "Q067", "question": "In which year was ForgeML launched?", "answer": "2022", "sources": ["products/forgeml/overview.md"], "type": "single-hop"}
+{"id": "Q068", "question": "What is the current version of ForgeML?", "answer": "3.0, released 09 May 2026", "sources": ["products/forgeml/overview.md", "products/forgeml/release-notes.md"], "type": "single-hop"}
+{"id": "Q069", "question": "What is the API rate limit for ForgeML?", "answer": "600 requests per minute per API key", "sources": ["products/forgeml/technical-specs.md"], "type": "single-hop"}
+{"id": "Q070", "question": "Which ForgeML release fixed 'Fixed search not matching asset names containing hyphens'?", "answer": "Version 2.0 (31 Jan 2025)", "sources": ["products/forgeml/release-notes.md"], "type": "single-hop"}
+{"id": "Q071", "question": "What is the list price of the Professional tier of Beacon Mobile?", "answer": "$32 per technician per month", "sources": ["products/beacon-mobile/pricing.md"], "type": "single-hop"}
+{"id": "Q072", "question": "Who is the product owner of Beacon Mobile?", "answer": "Deepa Pillai", "sources": ["products/beacon-mobile/overview.md"], "type": "single-hop"}
+{"id": "Q073", "question": "In which year was Beacon Mobile launched?", "answer": "2020", "sources": ["products/beacon-mobile/overview.md"], "type": "single-hop"}
+{"id": "Q074", "question": "What is the current version of Beacon Mobile?", "answer": "4.0, released 12 Aug 2025", "sources": ["products/beacon-mobile/overview.md", "products/beacon-mobile/release-notes.md"], "type": "single-hop"}
+{"id": "Q075", "question": "What is the API rate limit for Beacon Mobile?", "answer": "1200 requests per minute per API key", "sources": ["products/beacon-mobile/technical-specs.md"], "type": "single-hop"}
+{"id": "Q076", "question": "Which Beacon Mobile release fixed 'Fixed duplicate alert notifications when rules overlapped'?", "answer": "Version 3.0 (23 Jan 2024)", "sources": ["products/beacon-mobile/release-notes.md"], "type": "single-hop"}
+{"id": "Q077", "question": "What is the list price of the Professional tier of ShieldOps?", "answer": "$1,200 per site per month", "sources": ["products/shieldops/pricing.md"], "type": "single-hop"}
+{"id": "Q078", "question": "Who is the product owner of ShieldOps?", "answer": "Arjun Varghese", "sources": ["products/shieldops/overview.md"], "type": "single-hop"}
+{"id": "Q079", "question": "In which year was ShieldOps launched?", "answer": "2023", "sources": ["products/shieldops/overview.md"], "type": "single-hop"}
+{"id": "Q080", "question": "What is the current version of ShieldOps?", "answer": "6.0, released 09 Apr 2026", "sources": ["products/shieldops/overview.md", "products/shieldops/release-notes.md"], "type": "single-hop"}
+{"id": "Q081", "question": "What is the API rate limit for ShieldOps?", "answer": "600 requests per minute per API key", "sources": ["products/shieldops/technical-specs.md"], "type": "single-hop"}
+{"id": "Q082", "question": "Which ShieldOps release fixed 'Resolved intermittent 502 errors behind the API gateway'?", "answer": "Version 5.0 (27 Feb 2025)", "sources": ["products/shieldops/release-notes.md"], "type": "single-hop"}
+{"id": "Q083", "question": "What is the list price of the Professional tier of ClimaTrack?", "answer": "$420 per facility per month", "sources": ["products/climatrack/pricing.md"], "type": "single-hop"}
+{"id": "Q084", "question": "Who is the product owner of ClimaTrack?", "answer": "Arjun Varghese", "sources": ["products/climatrack/overview.md"], "type": "single-hop"}
+{"id": "Q085", "question": "In which year was ClimaTrack launched?", "answer": "2024", "sources": ["products/climatrack/overview.md"], "type": "single-hop"}
+{"id": "Q086", "question": "What is the current version of ClimaTrack?", "answer": "7.0, released 24 Sep 2026", "sources": ["products/climatrack/overview.md", "products/climatrack/release-notes.md"], "type": "single-hop"}
+{"id": "Q087", "question": "What is the API rate limit for ClimaTrack?", "answer": "3000 requests per minute per API key", "sources": ["products/climatrack/technical-specs.md"], "type": "single-hop"}
+{"id": "Q088", "question": "Which ClimaTrack release fixed 'Fixed incorrect pagination in the /v2/assets endpoint'?", "answer": "Version 6.0 (25 Oct 2024)", "sources": ["products/climatrack/release-notes.md"], "type": "single-hop"}
+{"id": "Q089", "question": "What is the expected ACS URL format for SAML SSO?", "answer": "https://login.veltrix.io/saml/acs/<tenant-id>", "sources": ["knowledge-base/"], "type": "single-hop"}
+{"id": "Q090", "question": "How long are device certificates valid for?", "answer": "365 days", "sources": ["knowledge-base/"], "type": "single-hop"}
+{"id": "Q091", "question": "How many days of paid annual leave do full-time employees get?", "answer": "24 days per calendar year", "sources": ["policies/pol-hr-001-leave-policy.md"], "type": "single-hop"}
+{"id": "Q092", "question": "How many unused annual leave days can be carried forward?", "answer": "Up to 10 days, expiring on 31 March of the following year", "sources": ["policies/pol-hr-001-leave-policy.md"], "type": "single-hop"}
+{"id": "Q093", "question": "How long is parental leave for a primary caregiver?", "answer": "26 weeks", "sources": ["policies/pol-hr-001-leave-policy.md"], "type": "single-hop"}
+{"id": "Q094", "question": "How many days per week must hybrid employees be in the office, and which are the anchor days?", "answer": "3 days per week; Tuesday to Thursday", "sources": ["policies/pol-hr-002-hybrid-and-remote-work-policy.md"], "type": "single-hop"}
+{"id": "Q095", "question": "For how many days per year can employees work from another country?", "answer": "Up to 20 working days per calendar year", "sources": ["policies/pol-hr-002-hybrid-and-remote-work-policy.md"], "type": "single-hop"}
+{"id": "Q096", "question": "What is the annual learning budget for an employee in India?", "answer": "₹75,000 (or $1,000 outside India)", "sources": ["policies/pol-hr-006-learning-and-development-policy.md"], "type": "single-hop"}
+{"id": "Q097", "question": "What is the referral bonus for a successful hire in India?", "answer": "₹60,000 (doubled for Staff Engineer, Director and above), paid after 90 days", "sources": ["policies/pol-hr-007-employee-referral-policy.md"], "type": "single-hop"}
+{"id": "Q098", "question": "What is the notice period for a manager in India?", "answer": "90 days", "sources": ["policies/pol-hr-008-notice-period-and-exit-policy.md"], "type": "single-hop"}
+{"id": "Q099", "question": "What is the hotel cap per night in a Tier-1 Indian city under the current travel policy?", "answer": "₹9,000 (Travel Policy v2.0, effective 1 Oct 2025)", "sources": ["policies/pol-fin-001-travel-policy.md"], "type": "single-hop"}
+{"id": "Q100", "question": "What is the daily per diem in the EU?", "answer": "€60 under the current Travel Policy v2.0 (it was €50 under the superseded v1.3)", "sources": ["policies/pol-fin-001-travel-policy.md"], "type": "single-hop"}
+{"id": "Q101", "question": "Within how many days must expense claims be submitted?", "answer": "Within 30 days; claims older than 60 days are rejected", "sources": ["policies/pol-fin-002-expense-reimbursement-policy.md"], "type": "single-hop"}
+{"id": "Q102", "question": "How many quotes are needed for a purchase of $40,000?", "answer": "3 quotes, plus Procurement review and CFO approval", "sources": ["policies/pol-fin-003-procurement-policy.md"], "type": "single-hop"}
+{"id": "Q103", "question": "What is the maximum value of a gift an employee can accept without declaring it?", "answer": "$50 (₹4,000) per giver per year", "sources": ["policies/pol-fin-004-gifts-and-entertainment-policy.md"], "type": "single-hop"}
+{"id": "Q104", "question": "Within how many days must critical vulnerabilities be fixed?", "answer": "7 days", "sources": ["policies/pol-sec-001-information-security-policy.md"], "type": "single-hop"}
+{"id": "Q105", "question": "What is the minimum password length?", "answer": "14 characters", "sources": ["policies/pol-sec-002-password-and-authentication-policy.md"], "type": "single-hop"}
+{"id": "Q106", "question": "How long are financial records retained?", "answer": "8 years", "sources": ["policies/pol-sec-004-data-classification-and-retention-policy.md"], "type": "single-hop"}
+{"id": "Q107", "question": "Within how many hours must CERT-In be notified of a reportable incident?", "answer": "6 hours", "sources": ["policies/pol-sec-005-security-incident-response-policy.md"], "type": "single-hop"}
+{"id": "Q108", "question": "What is the rollout sequence for production releases?", "answer": "5% → 25% → 100% of tenants, at least 1 hour between stages", "sources": ["policies/pol-eng-001-code-review-and-release-policy.md"], "type": "single-hop"}
+{"id": "Q109", "question": "When does the year-end change freeze apply?", "answer": "20 December to 5 January (and the last 3 working days of each fiscal quarter)", "sources": ["policies/pol-eng-001-code-review-and-release-policy.md"], "type": "single-hop"}
+{"id": "Q110", "question": "Which open-source licences are pre-approved?", "answer": "MIT, Apache 2.0, BSD and MPL 2.0", "sources": ["policies/pol-eng-002-open-source-contribution-policy.md"], "type": "single-hop"}
+{"id": "Q111", "question": "How often are laptops refreshed?", "answer": "Every 4 years", "sources": ["policies/pol-ops-001-equipment-and-asset-policy.md"], "type": "single-hop"}
+{"id": "Q112", "question": "Within how many days are data subject requests fulfilled?", "answer": "30 days", "sources": ["policies/pol-leg-003-data-privacy-policy.md"], "type": "single-hop"}
+{"id": "Q113", "question": "When are merit increases effective?", "answer": "1 July each year", "sources": ["policies/pol-hr-005-performance-review-policy.md"], "type": "single-hop"}
+{"id": "Q114", "question": "By how much did the Tier-1 Indian city per diem increase between Travel Policy v1.3 and v2.0?", "answer": "From ₹3,500 to ₹4,500, an increase of ₹1,000", "sources": ["policies/pol-fin-001-travel-policy.md", "policies/archive/pol-fin-001-travel-policy-v1-3-superseded.md"], "type": "multi-hop / versioning"}
+{"id": "Q115", "question": "Who leads Project Halcyon?", "answer": "Varun Pandey", "sources": ["projects/prj-2025-101-halcyon.md"], "type": "single-hop"}
+{"id": "Q116", "question": "What is the approved budget of Project Halcyon?", "answer": "$320,000", "sources": ["projects/prj-2025-101-halcyon.md"], "type": "single-hop"}
+{"id": "Q117", "question": "What is the status of project PRJ-2025-101?", "answer": "Completed", "sources": ["projects/prj-2025-101-halcyon.md"], "type": "single-hop"}
+{"id": "Q118", "question": "Who leads Project Meridian?", "answer": "Amit Chandran", "sources": ["projects/prj-2025-102-meridian.md"], "type": "single-hop"}
+{"id": "Q119", "question": "What is the approved budget of Project Meridian?", "answer": "$720,000", "sources": ["projects/prj-2025-102-meridian.md"], "type": "single-hop"}
+{"id": "Q120", "question": "What is the status of project PRJ-2025-102?", "answer": "Cancelled", "sources": ["projects/prj-2025-102-meridian.md"], "type": "single-hop"}
+{"id": "Q121", "question": "Who leads Project Kestrel?", "answer": "Anand Saxena", "sources": ["projects/prj-2025-103-kestrel.md"], "type": "single-hop"}
+{"id": "Q122", "question": "What is the approved budget of Project Kestrel?", "answer": "$100,000", "sources": ["projects/prj-2025-103-kestrel.md"], "type": "single-hop"}
+{"id": "Q123", "question": "What is the status of project PRJ-2025-103?", "answer": "Completed", "sources": ["projects/prj-2025-103-kestrel.md"], "type": "single-hop"}
+{"id": "Q124", "question": "Who leads Project Aurora?", "answer": "Anand Saxena", "sources": ["projects/prj-2026-104-aurora.md"], "type": "single-hop"}
+{"id": "Q125", "question": "What is the approved budget of Project Aurora?", "answer": "$940,000", "sources": ["projects/prj-2026-104-aurora.md"], "type": "single-hop"}
+{"id": "Q126", "question": "What is the status of project PRJ-2026-104?", "answer": "In Progress", "sources": ["projects/prj-2026-104-aurora.md"], "type": "single-hop"}
+{"id": "Q127", "question": "Who leads Project Basalt?", "answer": "Anand Saxena", "sources": ["projects/prj-2024-105-basalt.md"], "type": "single-hop"}
+{"id": "Q128", "question": "What is the approved budget of Project Basalt?", "answer": "$650,000", "sources": ["projects/prj-2024-105-basalt.md"], "type": "single-hop"}
+{"id": "Q129", "question": "What is the status of project PRJ-2024-105?", "answer": "Completed", "sources": ["projects/prj-2024-105-basalt.md"], "type": "single-hop"}
+{"id": "Q130", "question": "Who leads Project Cobalt?", "answer": "Aswin Abraham", "sources": ["projects/prj-2026-106-cobalt.md"], "type": "single-hop"}
+{"id": "Q131", "question": "What is the approved budget of Project Cobalt?", "answer": "$1,030,000", "sources": ["projects/prj-2026-106-cobalt.md"], "type": "single-hop"}
+{"id": "Q132", "question": "What is the status of project PRJ-2026-106?", "answer": "In Progress", "sources": ["projects/prj-2026-106-cobalt.md"], "type": "single-hop"}
+{"id": "Q133", "question": "Who leads Project Driftwood?", "answer": "Sachin Abraham", "sources": ["projects/prj-2024-107-driftwood.md"], "type": "single-hop"}
+{"id": "Q134", "question": "What is the approved budget of Project Driftwood?", "answer": "$780,000", "sources": ["projects/prj-2024-107-driftwood.md"], "type": "single-hop"}
+{"id": "Q135", "question": "What is the status of project PRJ-2024-107?", "answer": "Completed", "sources": ["projects/prj-2024-107-driftwood.md"], "type": "single-hop"}
+{"id": "Q136", "question": "Who leads Project Ember?", "answer": "Varun Pandey", "sources": ["projects/prj-2024-108-ember.md"], "type": "single-hop"}
+{"id": "Q137", "question": "What is the approved budget of Project Ember?", "answer": "$800,000", "sources": ["projects/prj-2024-108-ember.md"], "type": "single-hop"}
+{"id": "Q138", "question": "What is the status of project PRJ-2024-108?", "answer": "Completed", "sources": ["projects/prj-2024-108-ember.md"], "type": "single-hop"}
+{"id": "Q139", "question": "Who leads Project Fjord?", "answer": "Nandini Narayanan", "sources": ["projects/prj-2024-109-fjord.md"], "type": "single-hop"}
+{"id": "Q140", "question": "What is the approved budget of Project Fjord?", "answer": "$130,000", "sources": ["projects/prj-2024-109-fjord.md"], "type": "single-hop"}
+{"id": "Q141", "question": "What is the status of project PRJ-2024-109?", "answer": "Completed", "sources": ["projects/prj-2024-109-fjord.md"], "type": "single-hop"}
+{"id": "Q142", "question": "Who leads Project Granite?", "answer": "Amit Chandran", "sources": ["projects/prj-2024-110-granite.md"], "type": "single-hop"}
+{"id": "Q143", "question": "What is the approved budget of Project Granite?", "answer": "$110,000", "sources": ["projects/prj-2024-110-granite.md"], "type": "single-hop"}
+{"id": "Q144", "question": "What is the status of project PRJ-2024-110?", "answer": "Completed", "sources": ["projects/prj-2024-110-granite.md"], "type": "single-hop"}
+{"id": "Q145", "question": "Who leads Project Helix?", "answer": "Manish Joshi", "sources": ["projects/prj-2025-111-helix.md"], "type": "single-hop"}
+{"id": "Q146", "question": "What is the approved budget of Project Helix?", "answer": "$490,000", "sources": ["projects/prj-2025-111-helix.md"], "type": "single-hop"}
+{"id": "Q147", "question": "What is the status of project PRJ-2025-111?", "answer": "Completed", "sources": ["projects/prj-2025-111-helix.md"], "type": "single-hop"}
+{"id": "Q148", "question": "Who leads Project Indigo?", "answer": "Arjun Varghese", "sources": ["projects/prj-2024-112-indigo.md"], "type": "single-hop"}
+{"id": "Q149", "question": "What is the approved budget of Project Indigo?", "answer": "$730,000", "sources": ["projects/prj-2024-112-indigo.md"], "type": "single-hop"}
+{"id": "Q150", "question": "What is the status of project PRJ-2024-112?", "answer": "Completed", "sources": ["projects/prj-2024-112-indigo.md"], "type": "single-hop"}
+{"id": "Q151", "question": "Who leads Project Juniper?", "answer": "Anand Saxena", "sources": ["projects/prj-2026-113-juniper.md"], "type": "single-hop"}
+{"id": "Q152", "question": "What is the approved budget of Project Juniper?", "answer": "$730,000", "sources": ["projects/prj-2026-113-juniper.md"], "type": "single-hop"}
+{"id": "Q153", "question": "What is the status of project PRJ-2026-113?", "answer": "Planned", "sources": ["projects/prj-2026-113-juniper.md"], "type": "single-hop"}
+{"id": "Q154", "question": "Who leads Project Kepler?", "answer": "Sachin Abraham", "sources": ["projects/prj-2025-114-kepler.md"], "type": "single-hop"}
+{"id": "Q155", "question": "What is the approved budget of Project Kepler?", "answer": "$720,000", "sources": ["projects/prj-2025-114-kepler.md"], "type": "single-hop"}
+{"id": "Q156", "question": "What is the status of project PRJ-2025-114?", "answer": "Completed", "sources": ["projects/prj-2025-114-kepler.md"], "type": "single-hop"}
+{"id": "Q157", "question": "Who leads Project Lumen?", "answer": "Varun Pandey", "sources": ["projects/prj-2025-115-lumen.md"], "type": "single-hop"}
+{"id": "Q158", "question": "What is the approved budget of Project Lumen?", "answer": "$620,000", "sources": ["projects/prj-2025-115-lumen.md"], "type": "single-hop"}
+{"id": "Q159", "question": "What is the status of project PRJ-2025-115?", "answer": "Completed", "sources": ["projects/prj-2025-115-lumen.md"], "type": "single-hop"}
+{"id": "Q160", "question": "Who leads Project Monsoon?", "answer": "Ashley Garcia", "sources": ["projects/prj-2025-116-monsoon.md"], "type": "single-hop"}
+{"id": "Q161", "question": "What is the approved budget of Project Monsoon?", "answer": "$470,000", "sources": ["projects/prj-2025-116-monsoon.md"], "type": "single-hop"}
+{"id": "Q162", "question": "What is the status of project PRJ-2025-116?", "answer": "Cancelled", "sources": ["projects/prj-2025-116-monsoon.md"], "type": "single-hop"}
+{"id": "Q163", "question": "Who leads Project Nebula?", "answer": "Reshma Mathew", "sources": ["projects/prj-2025-117-nebula.md"], "type": "single-hop"}
+{"id": "Q164", "question": "What is the approved budget of Project Nebula?", "answer": "$800,000", "sources": ["projects/prj-2025-117-nebula.md"], "type": "single-hop"}
+{"id": "Q165", "question": "What is the status of project PRJ-2025-117?", "answer": "Completed", "sources": ["projects/prj-2025-117-nebula.md"], "type": "single-hop"}
+{"id": "Q166", "question": "Who leads Project Obsidian?", "answer": "Manish Joshi", "sources": ["projects/prj-2024-118-obsidian.md"], "type": "single-hop"}
+{"id": "Q167", "question": "What is the approved budget of Project Obsidian?", "answer": "$400,000", "sources": ["projects/prj-2024-118-obsidian.md"], "type": "single-hop"}
+{"id": "Q168", "question": "What is the status of project PRJ-2024-118?", "answer": "Completed", "sources": ["projects/prj-2024-118-obsidian.md"], "type": "single-hop"}
+{"id": "Q169", "question": "Who leads Project Peregrine?", "answer": "Manish Joshi", "sources": ["projects/prj-2025-119-peregrine.md"], "type": "single-hop"}
+{"id": "Q170", "question": "What is the approved budget of Project Peregrine?", "answer": "$1,090,000", "sources": ["projects/prj-2025-119-peregrine.md"], "type": "single-hop"}
+{"id": "Q171", "question": "What is the status of project PRJ-2025-119?", "answer": "Completed", "sources": ["projects/prj-2025-119-peregrine.md"], "type": "single-hop"}
+{"id": "Q172", "question": "Who leads Project Quartz?", "answer": "Anand Saxena", "sources": ["projects/prj-2025-120-quartz.md"], "type": "single-hop"}
+{"id": "Q173", "question": "What is the approved budget of Project Quartz?", "answer": "$370,000", "sources": ["projects/prj-2025-120-quartz.md"], "type": "single-hop"}
+{"id": "Q174", "question": "What is the status of project PRJ-2025-120?", "answer": "Completed", "sources": ["projects/prj-2025-120-quartz.md"], "type": "single-hop"}
+{"id": "Q175", "question": "Who leads Project Riverbend?", "answer": "Manish Joshi", "sources": ["projects/prj-2026-121-riverbend.md"], "type": "single-hop"}
+{"id": "Q176", "question": "What is the approved budget of Project Riverbend?", "answer": "$260,000", "sources": ["projects/prj-2026-121-riverbend.md"], "type": "single-hop"}
+{"id": "Q177", "question": "What is the status of project PRJ-2026-121?", "answer": "Cancelled", "sources": ["projects/prj-2026-121-riverbend.md"], "type": "single-hop"}
+{"id": "Q178", "question": "Who leads Project Saffron?", "answer": "Deepa Pillai", "sources": ["projects/prj-2024-122-saffron.md"], "type": "single-hop"}
+{"id": "Q179", "question": "What is the approved budget of Project Saffron?", "answer": "$220,000", "sources": ["projects/prj-2024-122-saffron.md"], "type": "single-hop"}
+{"id": "Q180", "question": "What is the status of project PRJ-2024-122?", "answer": "Completed", "sources": ["projects/prj-2024-122-saffron.md"], "type": "single-hop"}
+{"id": "Q181", "question": "Who leads Project Tidewater?", "answer": "Amit Chandran", "sources": ["projects/prj-2026-123-tidewater.md"], "type": "single-hop"}
+{"id": "Q182", "question": "What is the approved budget of Project Tidewater?", "answer": "$740,000", "sources": ["projects/prj-2026-123-tidewater.md"], "type": "single-hop"}
+{"id": "Q183", "question": "What is the status of project PRJ-2026-123?", "answer": "Completed", "sources": ["projects/prj-2026-123-tidewater.md"], "type": "single-hop"}
+{"id": "Q184", "question": "Who leads Project Umbra?", "answer": "Varun Pandey", "sources": ["projects/prj-2024-124-umbra.md"], "type": "single-hop"}
+{"id": "Q185", "question": "What is the approved budget of Project Umbra?", "answer": "$770,000", "sources": ["projects/prj-2024-124-umbra.md"], "type": "single-hop"}
+{"id": "Q186", "question": "What is the status of project PRJ-2024-124?", "answer": "Completed", "sources": ["projects/prj-2024-124-umbra.md"], "type": "single-hop"}
+{"id": "Q187", "question": "Who leads Project Vantage?", "answer": "Nandini Narayanan", "sources": ["projects/prj-2024-125-vantage.md"], "type": "single-hop"}
+{"id": "Q188", "question": "What is the approved budget of Project Vantage?", "answer": "$820,000", "sources": ["projects/prj-2024-125-vantage.md"], "type": "single-hop"}
+{"id": "Q189", "question": "What is the status of project PRJ-2024-125?", "answer": "Completed", "sources": ["projects/prj-2024-125-vantage.md"], "type": "single-hop"}
+{"id": "Q190", "question": "Who leads Project Wavelength?", "answer": "Varun Pandey", "sources": ["projects/prj-2025-126-wavelength.md"], "type": "single-hop"}
+{"id": "Q191", "question": "What is the approved budget of Project Wavelength?", "answer": "$1,140,000", "sources": ["projects/prj-2025-126-wavelength.md"], "type": "single-hop"}
+{"id": "Q192", "question": "What is the status of project PRJ-2025-126?", "answer": "Completed", "sources": ["projects/prj-2025-126-wavelength.md"], "type": "single-hop"}
+{"id": "Q193", "question": "Who leads Project Xenon?", "answer": "Nandini Narayanan", "sources": ["projects/prj-2024-127-xenon.md"], "type": "single-hop"}
+{"id": "Q194", "question": "What is the approved budget of Project Xenon?", "answer": "$1,080,000", "sources": ["projects/prj-2024-127-xenon.md"], "type": "single-hop"}
+{"id": "Q195", "question": "What is the status of project PRJ-2024-127?", "answer": "Completed", "sources": ["projects/prj-2024-127-xenon.md"], "type": "single-hop"}
+{"id": "Q196", "question": "Who leads Project Yarrow?", "answer": "Varun Pandey", "sources": ["projects/prj-2024-128-yarrow.md"], "type": "single-hop"}
+{"id": "Q197", "question": "What is the approved budget of Project Yarrow?", "answer": "$820,000", "sources": ["projects/prj-2024-128-yarrow.md"], "type": "single-hop"}
+{"id": "Q198", "question": "What is the status of project PRJ-2024-128?", "answer": "Completed", "sources": ["projects/prj-2024-128-yarrow.md"], "type": "single-hop"}
+{"id": "Q199", "question": "Who leads Project Zephyr?", "answer": "Nandini Narayanan", "sources": ["projects/prj-2025-129-zephyr.md"], "type": "single-hop"}
+{"id": "Q200", "question": "What is the approved budget of Project Zephyr?", "answer": "$620,000", "sources": ["projects/prj-2025-129-zephyr.md"], "type": "single-hop"}
+{"id": "Q201", "question": "What is the status of project PRJ-2025-129?", "answer": "Completed", "sources": ["projects/prj-2025-129-zephyr.md"], "type": "single-hop"}
+{"id": "Q202", "question": "Who leads Project Anvil?", "answer": "Shreya Mehta", "sources": ["projects/prj-2026-130-anvil.md"], "type": "single-hop"}
+{"id": "Q203", "question": "What is the approved budget of Project Anvil?", "answer": "$1,080,000", "sources": ["projects/prj-2026-130-anvil.md"], "type": "single-hop"}
+{"id": "Q204", "question": "What is the status of project PRJ-2026-130?", "answer": "In Progress", "sources": ["projects/prj-2026-130-anvil.md"], "type": "single-hop"}
+{"id": "Q205", "question": "Who leads Project Beacon Ridge?", "answer": "Anand Saxena", "sources": ["projects/prj-2025-131-beacon-ridge.md"], "type": "single-hop"}
+{"id": "Q206", "question": "What is the approved budget of Project Beacon Ridge?", "answer": "$670,000", "sources": ["projects/prj-2025-131-beacon-ridge.md"], "type": "single-hop"}
+{"id": "Q207", "question": "What is the status of project PRJ-2025-131?", "answer": "Completed", "sources": ["projects/prj-2025-131-beacon-ridge.md"], "type": "single-hop"}
+{"id": "Q208", "question": "Who leads Project Cinder?", "answer": "Nandini Narayanan", "sources": ["projects/prj-2024-132-cinder.md"], "type": "single-hop"}
+{"id": "Q209", "question": "What is the approved budget of Project Cinder?", "answer": "$870,000", "sources": ["projects/prj-2024-132-cinder.md"], "type": "single-hop"}
+{"id": "Q210", "question": "What is the status of project PRJ-2024-132?", "answer": "Completed", "sources": ["projects/prj-2024-132-cinder.md"], "type": "single-hop"}
+{"id": "Q211", "question": "Who leads Project Dunmore?", "answer": "Nandini Narayanan", "sources": ["projects/prj-2026-133-dunmore.md"], "type": "single-hop"}
+{"id": "Q212", "question": "What is the approved budget of Project Dunmore?", "answer": "$970,000", "sources": ["projects/prj-2026-133-dunmore.md"], "type": "single-hop"}
+{"id": "Q213", "question": "What is the status of project PRJ-2026-133?", "answer": "Completed", "sources": ["projects/prj-2026-133-dunmore.md"], "type": "single-hop"}
+{"id": "Q214", "question": "Who leads Project Eclipse?", "answer": "Manish Joshi", "sources": ["projects/prj-2024-134-eclipse.md"], "type": "single-hop"}
+{"id": "Q215", "question": "What is the approved budget of Project Eclipse?", "answer": "$560,000", "sources": ["projects/prj-2024-134-eclipse.md"], "type": "single-hop"}
+{"id": "Q216", "question": "What is the status of project PRJ-2024-134?", "answer": "Completed", "sources": ["projects/prj-2024-134-eclipse.md"], "type": "single-hop"}
+{"id": "Q217", "question": "Who leads Project Flint?", "answer": "Manish Joshi", "sources": ["projects/prj-2026-135-flint.md"], "type": "single-hop"}
+{"id": "Q218", "question": "What is the approved budget of Project Flint?", "answer": "$600,000", "sources": ["projects/prj-2026-135-flint.md"], "type": "single-hop"}
+{"id": "Q219", "question": "What is the status of project PRJ-2026-135?", "answer": "In Progress", "sources": ["projects/prj-2026-135-flint.md"], "type": "single-hop"}
+{"id": "Q220", "question": "Who leads Project Gossamer?", "answer": "Reshma Mathew", "sources": ["projects/prj-2024-136-gossamer.md"], "type": "single-hop"}
+{"id": "Q221", "question": "What is the approved budget of Project Gossamer?", "answer": "$320,000", "sources": ["projects/prj-2024-136-gossamer.md"], "type": "single-hop"}
+{"id": "Q222", "question": "What is the status of project PRJ-2024-136?", "answer": "Completed", "sources": ["projects/prj-2024-136-gossamer.md"], "type": "single-hop"}
+{"id": "Q223", "question": "Who is the Account Executive for Konkan Steelworks Ltd?", "answer": "Midhun Mathew", "sources": ["customers/konkan-steelworks-ltd.md"], "type": "single-hop"}
+{"id": "Q224", "question": "Which Veltrix products does Konkan Steelworks Ltd use?", "answer": "VeltrixCore, FlowSense", "sources": ["customers/konkan-steelworks-ltd.md"], "type": "single-hop"}
+{"id": "Q225", "question": "When is Konkan Steelworks Ltd up for renewal?", "answer": "18 Sep 2027", "sources": ["customers/konkan-steelworks-ltd.md"], "type": "single-hop"}
+{"id": "Q226", "question": "Who is the Account Executive for Deccan Cement Corporation?", "answer": "Naveen Iyer", "sources": ["customers/deccan-cement-corporation.md"], "type": "single-hop"}
+{"id": "Q227", "question": "Which Veltrix products does Deccan Cement Corporation use?", "answer": "VeltrixCore, SentryVision", "sources": ["customers/deccan-cement-corporation.md"], "type": "single-hop"}
+{"id": "Q228", "question": "When is Deccan Cement Corporation up for renewal?", "answer": "23 Mar 2027", "sources": ["customers/deccan-cement-corporation.md"], "type": "single-hop"}
+{"id": "Q229", "question": "Who is the Account Executive for Nordhavn Shipping A/S?", "answer": "Hannah Schmidt", "sources": ["customers/nordhavn-shipping-a-s.md"], "type": "single-hop"}
+{"id": "Q230", "question": "Which Veltrix products does Nordhavn Shipping A/S use?", "answer": "VeltrixCore, PulseMonitor, TraceChain", "sources": ["customers/nordhavn-shipping-a-s.md"], "type": "single-hop"}
+{"id": "Q231", "question": "When is Nordhavn Shipping A/S up for renewal?", "answer": "25 Dec 2026", "sources": ["customers/nordhavn-shipping-a-s.md"], "type": "single-hop"}
+{"id": "Q232", "question": "Who is the Account Executive for Bavaria Präzisionsteile GmbH?", "answer": "Jan Weber", "sources": ["customers/bavaria-praezisionsteile-gmbh.md"], "type": "single-hop"}
+{"id": "Q233", "question": "Which Veltrix products does Bavaria Präzisionsteile GmbH use?", "answer": "VeltrixCore, FlowSense, Atlas BI, Beacon Mobile", "sources": ["customers/bavaria-praezisionsteile-gmbh.md"], "type": "single-hop"}
+{"id": "Q234", "question": "When is Bavaria Präzisionsteile GmbH up for renewal?", "answer": "16 Jan 2027", "sources": ["customers/bavaria-praezisionsteile-gmbh.md"], "type": "single-hop"}
+{"id": "Q235", "question": "Who is the Account Executive for Lone Star Water Authority?", "answer": "Rachel Davis", "sources": ["customers/lone-star-water-authority.md"], "type": "single-hop"}
+{"id": "Q236", "question": "Which Veltrix products does Lone Star Water Authority use?", "answer": "VeltrixCore, ForgeML, ShieldOps, Beacon Mobile", "sources": ["customers/lone-star-water-authority.md"], "type": "single-hop"}
+{"id": "Q237", "question": "When is Lone Star Water Authority up for renewal?", "answer": "03 Jul 2027", "sources": ["customers/lone-star-water-authority.md"], "type": "single-hop"}
+{"id": "Q238", "question": "Who is the Account Executive for Malabar Spices & Foods?", "answer": "Anand Gupta", "sources": ["customers/malabar-spices-and-foods.md"], "type": "single-hop"}
+{"id": "Q239", "question": "Which Veltrix products does Malabar Spices & Foods use?", "answer": "VeltrixCore, TraceChain", "sources": ["customers/malabar-spices-and-foods.md"], "type": "single-hop"}
+{"id": "Q240", "question": "When is Malabar Spices & Foods up for renewal?", "answer": "19 Aug 2027", "sources": ["customers/malabar-spices-and-foods.md"], "type": "single-hop"}
+{"id": "Q241", "question": "Who is the Account Executive for Sentosa Petrochem Pte Ltd?", "answer": "Charmaine Koh", "sources": ["customers/sentosa-petrochem-pte-ltd.md"], "type": "single-hop"}
+{"id": "Q242", "question": "Which Veltrix products does Sentosa Petrochem Pte Ltd use?", "answer": "VeltrixCore, ClimaTrack, ShieldOps", "sources": ["customers/sentosa-petrochem-pte-ltd.md"], "type": "single-hop"}
+{"id": "Q243", "question": "When is Sentosa Petrochem Pte Ltd up for renewal?", "answer": "22 Jul 2027", "sources": ["customers/sentosa-petrochem-pte-ltd.md"], "type": "single-hop"}
+{"id": "Q244", "question": "Who is the Account Executive for Rheinland Energiewerke AG?", "answer": "Felix Richter", "sources": ["customers/rheinland-energiewerke-ag.md"], "type": "single-hop"}
+{"id": "Q245", "question": "Which Veltrix products does Rheinland Energiewerke AG use?", "answer": "VeltrixCore, PulseMonitor, ShieldOps", "sources": ["customers/rheinland-energiewerke-ag.md"], "type": "single-hop"}
+{"id": "Q246", "question": "When is Rheinland Energiewerke AG up for renewal?", "answer": "26 Oct 2027", "sources": ["customers/rheinland-energiewerke-ag.md"], "type": "single-hop"}
+{"id": "Q247", "question": "Who is the Account Executive for Kaveri Pharma Ltd?", "answer": "Anand Gupta", "sources": ["customers/kaveri-pharma-ltd.md"], "type": "single-hop"}
+{"id": "Q248", "question": "Which Veltrix products does Kaveri Pharma Ltd use?", "answer": "VeltrixCore, SentryVision, ClimaTrack, ForgeML", "sources": ["customers/kaveri-pharma-ltd.md"], "type": "single-hop"}
+{"id": "Q249", "question": "When is Kaveri Pharma Ltd up for renewal?", "answer": "18 May 2027", "sources": ["customers/kaveri-pharma-ltd.md"], "type": "single-hop"}
+{"id": "Q250", "question": "Who is the Account Executive for Great Lakes Paper Co.?", "answer": "Rachel Davis", "sources": ["customers/great-lakes-paper-co.md"], "type": "single-hop"}
+{"id": "Q251", "question": "Which Veltrix products does Great Lakes Paper Co. use?", "answer": "VeltrixCore, PulseMonitor", "sources": ["customers/great-lakes-paper-co.md"], "type": "single-hop"}
+{"id": "Q252", "question": "When is Great Lakes Paper Co. up for renewal?", "answer": "03 Dec 2026", "sources": ["customers/great-lakes-paper-co.md"], "type": "single-hop"}
+{"id": "Q253", "question": "Who is the Account Executive for Indus Auto Components?", "answer": "Anand Gupta", "sources": ["customers/indus-auto-components.md"], "type": "single-hop"}
+{"id": "Q254", "question": "Which Veltrix products does Indus Auto Components use?", "answer": "VeltrixCore, SentryVision", "sources": ["customers/indus-auto-components.md"], "type": "single-hop"}
+{"id": "Q255", "question": "When is Indus Auto Components up for renewal?", "answer": "02 Dec 2026", "sources": ["customers/indus-auto-components.md"], "type": "single-hop"}
+{"id": "Q256", "question": "Who is the Account Executive for Mekong Textiles JSC?", "answer": "Wei Ling Chua", "sources": ["customers/mekong-textiles-jsc.md"], "type": "single-hop"}
+{"id": "Q257", "question": "Which Veltrix products does Mekong Textiles JSC use?", "answer": "VeltrixCore, Atlas BI, SentryVision", "sources": ["customers/mekong-textiles-jsc.md"], "type": "single-hop"}
+{"id": "Q258", "question": "When is Mekong Textiles JSC up for renewal?", "answer": "01 Sep 2027", "sources": ["customers/mekong-textiles-jsc.md"], "type": "single-hop"}
+{"id": "Q259", "question": "Who is the Account Executive for Port of Visakha Terminals?", "answer": "Anand Gupta", "sources": ["customers/port-of-visakha-terminals.md"], "type": "single-hop"}
+{"id": "Q260", "question": "Which Veltrix products does Port of Visakha Terminals use?", "answer": "VeltrixCore, ClimaTrack", "sources": ["customers/port-of-visakha-terminals.md"], "type": "single-hop"}
+{"id": "Q261", "question": "When is Port of Visakha Terminals up for renewal?", "answer": "21 Jul 2027", "sources": ["customers/port-of-visakha-terminals.md"], "type": "single-hop"}
+{"id": "Q262", "question": "Who is the Account Executive for Alpenmilch Molkerei eG?", "answer": "Felix Richter", "sources": ["customers/alpenmilch-molkerei-eg.md"], "type": "single-hop"}
+{"id": "Q263", "question": "Which Veltrix products does Alpenmilch Molkerei eG use?", "answer": "VeltrixCore, EdgeLink Gateway, FlowSense", "sources": ["customers/alpenmilch-molkerei-eg.md"], "type": "single-hop"}
+{"id": "Q264", "question": "When is Alpenmilch Molkerei eG up for renewal?", "answer": "07 Apr 2027", "sources": ["customers/alpenmilch-molkerei-eg.md"], "type": "single-hop"}
+{"id": "Q265", "question": "Who is the Account Executive for Pacific Rim Semiconductors?", "answer": "Wei Ling Chua", "sources": ["customers/pacific-rim-semiconductors.md"], "type": "single-hop"}
+{"id": "Q266", "question": "Which Veltrix products does Pacific Rim Semiconductors use?", "answer": "VeltrixCore, PulseMonitor, FlowSense", "sources": ["customers/pacific-rim-semiconductors.md"], "type": "single-hop"}
+{"id": "Q267", "question": "When is Pacific Rim Semiconductors up for renewal?", "answer": "06 Aug 2027", "sources": ["customers/pacific-rim-semiconductors.md"], "type": "single-hop"}
+{"id": "Q268", "question": "Who is the Account Executive for Sahyadri Water Board?", "answer": "Sachin Rao", "sources": ["customers/sahyadri-water-board.md"], "type": "single-hop"}
+{"id": "Q269", "question": "Which Veltrix products does Sahyadri Water Board use?", "answer": "VeltrixCore, PulseMonitor, ForgeML", "sources": ["customers/sahyadri-water-board.md"], "type": "single-hop"}
+{"id": "Q270", "question": "When is Sahyadri Water Board up for renewal?", "answer": "05 Nov 2027", "sources": ["customers/sahyadri-water-board.md"], "type": "single-hop"}
+{"id": "Q271", "question": "Who is the Account Executive for Gulf Coast Polymers Inc.?", "answer": "Rachel Davis", "sources": ["customers/gulf-coast-polymers-inc.md"], "type": "single-hop"}
+{"id": "Q272", "question": "Which Veltrix products does Gulf Coast Polymers Inc. use?", "answer": "VeltrixCore, SentryVision, PulseMonitor, Atlas BI", "sources": ["customers/gulf-coast-polymers-inc.md"], "type": "single-hop"}
+{"id": "Q273", "question": "When is Gulf Coast Polymers Inc. up for renewal?", "answer": "01 Aug 2027", "sources": ["customers/gulf-coast-polymers-inc.md"], "type": "single-hop"}
+{"id": "Q274", "question": "Who is the Account Executive for Vasco Brewing Company?", "answer": "Naveen Iyer", "sources": ["customers/vasco-brewing-company.md"], "type": "single-hop"}
+{"id": "Q275", "question": "Which Veltrix products does Vasco Brewing Company use?", "answer": "VeltrixCore, Beacon Mobile, ShieldOps, SentryVision", "sources": ["customers/vasco-brewing-company.md"], "type": "single-hop"}
+{"id": "Q276", "question": "When is Vasco Brewing Company up for renewal?", "answer": "24 Oct 2027", "sources": ["customers/vasco-brewing-company.md"], "type": "single-hop"}
+{"id": "Q277", "question": "Who is the Account Executive for Tatra Rail Systems s.r.o.?", "answer": "Jan Becker", "sources": ["customers/tatra-rail-systems-s-r-o.md"], "type": "single-hop"}
+{"id": "Q278", "question": "Which Veltrix products does Tatra Rail Systems s.r.o. use?", "answer": "VeltrixCore, Atlas BI, ShieldOps, Beacon Mobile", "sources": ["customers/tatra-rail-systems-s-r-o.md"], "type": "single-hop"}
+{"id": "Q279", "question": "When is Tatra Rail Systems s.r.o. up for renewal?", "answer": "19 Mar 2027", "sources": ["customers/tatra-rail-systems-s-r-o.md"], "type": "single-hop"}
+{"id": "Q280", "question": "Who is the Account Executive for Hokkaido Precision Machinery?", "answer": "Jun Hao Ong", "sources": ["customers/hokkaido-precision-machinery.md"], "type": "single-hop"}
+{"id": "Q281", "question": "Which Veltrix products does Hokkaido Precision Machinery use?", "answer": "VeltrixCore, EdgeLink Gateway", "sources": ["customers/hokkaido-precision-machinery.md"], "type": "single-hop"}
+{"id": "Q282", "question": "When is Hokkaido Precision Machinery up for renewal?", "answer": "14 Apr 2027", "sources": ["customers/hokkaido-precision-machinery.md"], "type": "single-hop"}
+{"id": "Q283", "question": "Who is the Account Executive for Narmada Fertilisers Ltd?", "answer": "Anand Gupta", "sources": ["customers/narmada-fertilisers-ltd.md"], "type": "single-hop"}
+{"id": "Q284", "question": "Which Veltrix products does Narmada Fertilisers Ltd use?", "answer": "VeltrixCore, ClimaTrack, PulseMonitor, Atlas BI", "sources": ["customers/narmada-fertilisers-ltd.md"], "type": "single-hop"}
+{"id": "Q285", "question": "When is Narmada Fertilisers Ltd up for renewal?", "answer": "24 Jul 2027", "sources": ["customers/narmada-fertilisers-ltd.md"], "type": "single-hop"}
+{"id": "Q286", "question": "Who is the Account Executive for Cascadia Timber Products?", "answer": "Tyler Miller", "sources": ["customers/cascadia-timber-products.md"], "type": "single-hop"}
+{"id": "Q287", "question": "Which Veltrix products does Cascadia Timber Products use?", "answer": "VeltrixCore, SentryVision, TraceChain, FlowSense", "sources": ["customers/cascadia-timber-products.md"], "type": "single-hop"}
+{"id": "Q288", "question": "When is Cascadia Timber Products up for renewal?", "answer": "16 Nov 2027", "sources": ["customers/cascadia-timber-products.md"], "type": "single-hop"}
+{"id": "Q289", "question": "Who is the Account Executive for Lion City Data Parks?", "answer": "Jun Hao Ong", "sources": ["customers/lion-city-data-parks.md"], "type": "single-hop"}
+{"id": "Q290", "question": "Which Veltrix products does Lion City Data Parks use?", "answer": "VeltrixCore, PulseMonitor, GridWise, TraceChain", "sources": ["customers/lion-city-data-parks.md"], "type": "single-hop"}
+{"id": "Q291", "question": "When is Lion City Data Parks up for renewal?", "answer": "07 Feb 2027", "sources": ["customers/lion-city-data-parks.md"], "type": "single-hop"}
+{"id": "Q292", "question": "Who is the Account Executive for Andhra Power Generation Co.?", "answer": "Anand Gupta", "sources": ["customers/andhra-power-generation-co.md"], "type": "single-hop"}
+{"id": "Q293", "question": "Which Veltrix products does Andhra Power Generation Co. use?", "answer": "VeltrixCore, ForgeML, FlowSense", "sources": ["customers/andhra-power-generation-co.md"], "type": "single-hop"}
+{"id": "Q294", "question": "When is Andhra Power Generation Co. up for renewal?", "answer": "15 Feb 2027", "sources": ["customers/andhra-power-generation-co.md"], "type": "single-hop"}
+{"id": "Q295", "question": "Who is the Account Executive for Westfalen Glas GmbH?", "answer": "Felix Richter", "sources": ["customers/westfalen-glas-gmbh.md"], "type": "single-hop"}
+{"id": "Q296", "question": "Which Veltrix products does Westfalen Glas GmbH use?", "answer": "VeltrixCore, ClimaTrack, GridWise, SentryVision", "sources": ["customers/westfalen-glas-gmbh.md"], "type": "single-hop"}
+{"id": "Q297", "question": "When is Westfalen Glas GmbH up for renewal?", "answer": "07 Oct 2027", "sources": ["customers/westfalen-glas-gmbh.md"], "type": "single-hop"}
+{"id": "Q298", "question": "Who is the Account Executive for Coromandel Tyres Ltd?", "answer": "Naveen Iyer", "sources": ["customers/coromandel-tyres-ltd.md"], "type": "single-hop"}
+{"id": "Q299", "question": "Which Veltrix products does Coromandel Tyres Ltd use?", "answer": "VeltrixCore, FlowSense, ForgeML, Atlas BI", "sources": ["customers/coromandel-tyres-ltd.md"], "type": "single-hop"}
+{"id": "Q300", "question": "When is Coromandel Tyres Ltd up for renewal?", "answer": "28 Aug 2027", "sources": ["customers/coromandel-tyres-ltd.md"], "type": "single-hop"}
+{"id": "Q301", "question": "Who is the Account Executive for Ozark Foods Group?", "answer": "Tyler Miller", "sources": ["customers/ozark-foods-group.md"], "type": "single-hop"}
+{"id": "Q302", "question": "Which Veltrix products does Ozark Foods Group use?", "answer": "VeltrixCore, TraceChain, Beacon Mobile", "sources": ["customers/ozark-foods-group.md"], "type": "single-hop"}
+{"id": "Q303", "question": "When is Ozark Foods Group up for renewal?", "answer": "06 Dec 2027", "sources": ["customers/ozark-foods-group.md"], "type": "single-hop"}
+{"id": "Q304", "question": "Who is the Account Executive for Jakarta Cold Chain Logistics?", "answer": "Hui Min Ong", "sources": ["customers/jakarta-cold-chain-logistics.md"], "type": "single-hop"}
+{"id": "Q305", "question": "Which Veltrix products does Jakarta Cold Chain Logistics use?", "answer": "VeltrixCore, GridWise, Atlas BI", "sources": ["customers/jakarta-cold-chain-logistics.md"], "type": "single-hop"}
+{"id": "Q306", "question": "When is Jakarta Cold Chain Logistics up for renewal?", "answer": "06 Mar 2027", "sources": ["customers/jakarta-cold-chain-logistics.md"], "type": "single-hop"}
+{"id": "Q307", "question": "Who is the Account Executive for Thames Valley Water plc?", "answer": "Jan Weber", "sources": ["customers/thames-valley-water-plc.md"], "type": "single-hop"}
+{"id": "Q308", "question": "Which Veltrix products does Thames Valley Water plc use?", "answer": "VeltrixCore, SentryVision", "sources": ["customers/thames-valley-water-plc.md"], "type": "single-hop"}
+{"id": "Q309", "question": "When is Thames Valley Water plc up for renewal?", "answer": "12 Jul 2027", "sources": ["customers/thames-valley-water-plc.md"], "type": "single-hop"}
+{"id": "Q310", "question": "Who is the Account Executive for Sunderban Jute Mills?", "answer": "Sachin Rao", "sources": ["customers/sunderban-jute-mills.md"], "type": "single-hop"}
+{"id": "Q311", "question": "Which Veltrix products does Sunderban Jute Mills use?", "answer": "VeltrixCore, GridWise, Beacon Mobile", "sources": ["customers/sunderban-jute-mills.md"], "type": "single-hop"}
+{"id": "Q312", "question": "When is Sunderban Jute Mills up for renewal?", "answer": "01 Nov 2027", "sources": ["customers/sunderban-jute-mills.md"], "type": "single-hop"}
+{"id": "Q313", "question": "What improvement did Cascadia Timber Products achieve according to its case study?", "answer": "18% improvement in the primary KPI with FlowSense", "sources": ["case-studies/cascadia-timber-products-case-study.md"], "type": "single-hop"}
+{"id": "Q314", "question": "What improvement did Pacific Rim Semiconductors achieve according to its case study?", "answer": "39% improvement in the primary KPI with FlowSense", "sources": ["case-studies/pacific-rim-semiconductors-case-study.md"], "type": "single-hop"}
+{"id": "Q315", "question": "What improvement did Indus Auto Components achieve according to its case study?", "answer": "35% improvement in the primary KPI with SentryVision", "sources": ["case-studies/indus-auto-components-case-study.md"], "type": "single-hop"}
+{"id": "Q316", "question": "What improvement did Coromandel Tyres Ltd achieve according to its case study?", "answer": "42% improvement in the primary KPI with Atlas BI", "sources": ["case-studies/coromandel-tyres-ltd-case-study.md"], "type": "single-hop"}
+{"id": "Q317", "question": "What improvement did Malabar Spices & Foods achieve according to its case study?", "answer": "47% improvement in the primary KPI with TraceChain", "sources": ["case-studies/malabar-spices-and-foods-case-study.md"], "type": "single-hop"}
+{"id": "Q318", "question": "What improvement did Ozark Foods Group achieve according to its case study?", "answer": "23% improvement in the primary KPI with Beacon Mobile", "sources": ["case-studies/ozark-foods-group-case-study.md"], "type": "single-hop"}
+{"id": "Q319", "question": "What improvement did Westfalen Glas GmbH achieve according to its case study?", "answer": "47% improvement in the primary KPI with SentryVision", "sources": ["case-studies/westfalen-glas-gmbh-case-study.md"], "type": "single-hop"}
+{"id": "Q320", "question": "What improvement did Tatra Rail Systems s.r.o. achieve according to its case study?", "answer": "30% improvement in the primary KPI with Beacon Mobile", "sources": ["case-studies/tatra-rail-systems-s-r-o-case-study.md"], "type": "single-hop"}
+{"id": "Q321", "question": "What was the root cause of incident INC-2026-0041?", "answer": "A third-party SMS provider degraded, delaying alert notifications.", "sources": ["incidents/inc-2026-0041.md"], "type": "single-hop"}
+{"id": "Q322", "question": "How long did incident INC-2026-0041 last and what severity was it?", "answer": "116 minutes, SEV3", "sources": ["incidents/inc-2026-0041.md"], "type": "single-hop"}
+{"id": "Q323", "question": "What was the root cause of incident INC-2025-0042?", "answer": "A cloud provider availability-zone outage in ap-south-1 affected a single-AZ Redis cluster.", "sources": ["incidents/inc-2025-0042.md"], "type": "single-hop"}
+{"id": "Q324", "question": "How long did incident INC-2025-0042 last and what severity was it?", "answer": "38 minutes, SEV2", "sources": ["incidents/inc-2025-0042.md"], "type": "single-hop"}
+{"id": "Q325", "question": "What was the root cause of incident INC-2026-0043?", "answer": "An expired TLS certificate on the internal API gateway was not renewed by automation because of a misconfigured DNS challenge.", "sources": ["incidents/inc-2026-0043.md"], "type": "single-hop"}
+{"id": "Q326", "question": "How long did incident INC-2026-0043 last and what severity was it?", "answer": "90 minutes, SEV3", "sources": ["incidents/inc-2026-0043.md"], "type": "single-hop"}
+{"id": "Q327", "question": "What was the root cause of incident INC-2025-0044?", "answer": "A memory leak in the rule engine introduced in the latest release caused pods to be OOM-killed.", "sources": ["incidents/inc-2025-0044.md"], "type": "single-hop"}
+{"id": "Q328", "question": "How long did incident INC-2025-0044 last and what severity was it?", "answer": "98 minutes, SEV2", "sources": ["incidents/inc-2025-0044.md"], "type": "single-hop"}
+{"id": "Q329", "question": "What was the root cause of incident INC-2026-0045?", "answer": "A third-party SMS provider degraded, delaying alert notifications.", "sources": ["incidents/inc-2026-0045.md"], "type": "single-hop"}
+{"id": "Q330", "question": "How long did incident INC-2026-0045 last and what severity was it?", "answer": "221 minutes, SEV1", "sources": ["incidents/inc-2026-0045.md"], "type": "single-hop"}
+{"id": "Q331", "question": "What was the root cause of incident INC-2025-0046?", "answer": "A database migration added an index without CONCURRENTLY, locking the main telemetry table.", "sources": ["incidents/inc-2025-0046.md"], "type": "single-hop"}
+{"id": "Q332", "question": "How long did incident INC-2025-0046 last and what severity was it?", "answer": "115 minutes, SEV2", "sources": ["incidents/inc-2025-0046.md"], "type": "single-hop"}
+{"id": "Q333", "question": "What was the root cause of incident INC-2026-0047?", "answer": "A noisy-neighbour tenant ran an unbounded query that exhausted the shared query pool.", "sources": ["incidents/inc-2026-0047.md"], "type": "single-hop"}
+{"id": "Q334", "question": "How long did incident INC-2026-0047 last and what severity was it?", "answer": "62 minutes, SEV1", "sources": ["incidents/inc-2026-0047.md"], "type": "single-hop"}
+{"id": "Q335", "question": "What was the root cause of incident INC-2025-0048?", "answer": "A database migration added an index without CONCURRENTLY, locking the main telemetry table.", "sources": ["incidents/inc-2025-0048.md"], "type": "single-hop"}
+{"id": "Q336", "question": "How long did incident INC-2025-0048 last and what severity was it?", "answer": "72 minutes, SEV2", "sources": ["incidents/inc-2025-0048.md"], "type": "single-hop"}
+{"id": "Q337", "question": "What was the root cause of incident INC-2025-0049?", "answer": "A cloud provider availability-zone outage in ap-south-1 affected a single-AZ Redis cluster.", "sources": ["incidents/inc-2025-0049.md"], "type": "single-hop"}
+{"id": "Q338", "question": "How long did incident INC-2025-0049 last and what severity was it?", "answer": "85 minutes, SEV2", "sources": ["incidents/inc-2025-0049.md"], "type": "single-hop"}
+{"id": "Q339", "question": "What was the root cause of incident INC-2026-0050?", "answer": "A third-party SMS provider degraded, delaying alert notifications.", "sources": ["incidents/inc-2026-0050.md"], "type": "single-hop"}
+{"id": "Q340", "question": "How long did incident INC-2026-0050 last and what severity was it?", "answer": "127 minutes, SEV2", "sources": ["incidents/inc-2026-0050.md"], "type": "single-hop"}
+{"id": "Q341", "question": "What was the root cause of incident INC-2025-0051?", "answer": "A faulty firmware update (EdgeLink 4.2.1) caused gateways to reboot in a loop.", "sources": ["incidents/inc-2025-0051.md"], "type": "single-hop"}
+{"id": "Q342", "question": "How long did incident INC-2025-0051 last and what severity was it?", "answer": "135 minutes, SEV2", "sources": ["incidents/inc-2025-0051.md"], "type": "single-hop"}
+{"id": "Q343", "question": "What was the root cause of incident INC-2026-0052?", "answer": "A third-party SMS provider degraded, delaying alert notifications.", "sources": ["incidents/inc-2026-0052.md"], "type": "single-hop"}
+{"id": "Q344", "question": "How long did incident INC-2026-0052 last and what severity was it?", "answer": "102 minutes, SEV3", "sources": ["incidents/inc-2026-0052.md"], "type": "single-hop"}
+{"id": "Q345", "question": "What was the root cause of incident INC-2025-0053?", "answer": "A cloud provider availability-zone outage in ap-south-1 affected a single-AZ Redis cluster.", "sources": ["incidents/inc-2025-0053.md"], "type": "single-hop"}
+{"id": "Q346", "question": "How long did incident INC-2025-0053 last and what severity was it?", "answer": "96 minutes, SEV3", "sources": ["incidents/inc-2025-0053.md"], "type": "single-hop"}
+{"id": "Q347", "question": "What was the root cause of incident INC-2026-0054?", "answer": "An expired TLS certificate on the internal API gateway was not renewed by automation because of a misconfigured DNS challenge.", "sources": ["incidents/inc-2026-0054.md"], "type": "single-hop"}
+{"id": "Q348", "question": "How long did incident INC-2026-0054 last and what severity was it?", "answer": "105 minutes, SEV3", "sources": ["incidents/inc-2026-0054.md"], "type": "single-hop"}
+{"id": "Q349", "question": "What was the root cause of incident INC-2025-0055?", "answer": "A database migration added an index without CONCURRENTLY, locking the main telemetry table.", "sources": ["incidents/inc-2025-0055.md"], "type": "single-hop"}
+{"id": "Q350", "question": "How long did incident INC-2025-0055 last and what severity was it?", "answer": "95 minutes, SEV1", "sources": ["incidents/inc-2025-0055.md"], "type": "single-hop"}
+{"id": "Q351", "question": "What was the root cause of incident INC-2026-0056?", "answer": "A memory leak in the rule engine introduced in the latest release caused pods to be OOM-killed.", "sources": ["incidents/inc-2026-0056.md"], "type": "single-hop"}
+{"id": "Q352", "question": "How long did incident INC-2026-0056 last and what severity was it?", "answer": "146 minutes, SEV2", "sources": ["incidents/inc-2026-0056.md"], "type": "single-hop"}
+{"id": "Q353", "question": "What was the root cause of incident INC-2026-0057?", "answer": "An expired TLS certificate on the internal API gateway was not renewed by automation because of a misconfigured DNS challenge.", "sources": ["incidents/inc-2026-0057.md"], "type": "single-hop"}
+{"id": "Q354", "question": "How long did incident INC-2026-0057 last and what severity was it?", "answer": "58 minutes, SEV3", "sources": ["incidents/inc-2026-0057.md"], "type": "single-hop"}
+{"id": "Q355", "question": "What was the root cause of incident INC-2025-0058?", "answer": "A noisy-neighbour tenant ran an unbounded query that exhausted the shared query pool.", "sources": ["incidents/inc-2025-0058.md"], "type": "single-hop"}
+{"id": "Q356", "question": "How long did incident INC-2025-0058 last and what severity was it?", "answer": "54 minutes, SEV3", "sources": ["incidents/inc-2025-0058.md"], "type": "single-hop"}
+{"id": "Q357", "question": "What did ADR-001 decide?", "answer": "Adopt TimescaleDB on PostgreSQL 16 with native compression.", "sources": ["engineering/adr/adr-001-use-timescaledb-for-time-series-storage.md"], "type": "single-hop"}
+{"id": "Q358", "question": "What did ADR-002 decide?", "answer": "Use Apache Kafka (managed MSK) with 7-day retention.", "sources": ["engineering/adr/adr-002-adopt-apache-kafka-as-the-event-backbone.md"], "type": "single-hop"}
+{"id": "Q359", "question": "What did ADR-003 decide?", "answer": "New backend services are written in Go; Python remains for data science.", "sources": ["engineering/adr/adr-003-standardise-on-go-for-backend-services.md"], "type": "single-hop"}
+{"id": "Q360", "question": "What did ADR-004 decide?", "answer": "Use gRPC with Protobuf schemas in a shared repo.", "sources": ["engineering/adr/adr-004-use-grpc-for-internal-service-communication.md"], "type": "single-hop"}
+{"id": "Q361", "question": "What did ADR-005 decide?", "answer": "Instrument all services with OpenTelemetry SDKs.", "sources": ["engineering/adr/adr-005-adopt-opentelemetry-for-observability.md"], "type": "single-hop"}
+{"id": "Q362", "question": "What did ADR-006 decide?", "answer": "All Kubernetes deployments go through Argo CD.", "sources": ["engineering/adr/adr-006-use-argo-cd-for-gitops-deployments.md"], "type": "single-hop"}
+{"id": "Q363", "question": "What did ADR-007 decide?", "answer": "Each tenant gets its own PostgreSQL schema; large tenants get dedicated clusters.", "sources": ["engineering/adr/adr-007-multi-tenancy-via-schema-per-tenant.md"], "type": "single-hop"}
+{"id": "Q364", "question": "What did ADR-008 decide?", "answer": "Store embeddings in pgvector, falling back to Qdrant above 50M vectors.", "sources": ["engineering/adr/adr-008-use-pgvector-for-retrieval-in-veltrix-assist.md"], "type": "single-hop"}
+{"id": "Q365", "question": "What did ADR-009 decide?", "answer": "All new web UIs use React 18 + TypeScript and the Forge design system.", "sources": ["engineering/adr/adr-009-react-and-typescript-for-all-web-frontends.md"], "type": "single-hop"}
+{"id": "Q366", "question": "What did ADR-010 decide?", "answer": "Edge workloads are packaged as signed OCI containers.", "sources": ["engineering/adr/adr-010-edge-apps-run-as-docker-containers-on-edgelink.md"], "type": "single-hop"}
+{"id": "Q367", "question": "What did ADR-011 decide?", "answer": "Build 'Toggle' on top of PostgreSQL and Redis.", "sources": ["engineering/adr/adr-011-feature-flags-with-an-in-house-service.md"], "type": "single-hop"}
+{"id": "Q368", "question": "What did ADR-012 decide?", "answer": "Use Temporal for exports, billing runs and onboarding workflows.", "sources": ["engineering/adr/adr-012-adopt-temporal-for-long-running-workflows.md"], "type": "single-hop"}
+{"id": "Q369", "question": "What did ADR-013 decide?", "answer": "Okta is the single source for workforce identity with SCIM to all apps.", "sources": ["engineering/adr/adr-013-use-okta-as-the-workforce-identity-provider.md"], "type": "single-hop"}
+{"id": "Q370", "question": "What did ADR-014 decide?", "answer": "Primary in ap-south-1 with warm standby in ap-southeast-1; RTO 4 hours.", "sources": ["engineering/adr/adr-014-single-region-primary-with-warm-standby.md"], "type": "single-hop"}
+{"id": "Q371", "question": "What did ADR-015 decide?", "answer": "Materialise rollups into ClickHouse for Atlas BI.", "sources": ["engineering/adr/adr-015-clickhouse-for-atlas-bi-aggregations.md"], "type": "single-hop"}
+{"id": "Q372", "question": "What did ADR-016 decide?", "answer": "All cloud infrastructure is defined in Terraform modules.", "sources": ["engineering/adr/adr-016-use-terraform-with-module-registry.md"], "type": "single-hop"}
+{"id": "Q373", "question": "What did ADR-017 decide?", "answer": "Public APIs are versioned (/v1, /v2) with 12-month deprecation windows.", "sources": ["engineering/adr/adr-017-semantic-versioning-for-public-apis.md"], "type": "single-hop"}
+{"id": "Q374", "question": "What did ADR-018 decide?", "answer": "Export models to ONNX and run with ONNX Runtime on EdgeLink.", "sources": ["engineering/adr/adr-018-onnx-runtime-for-edge-inference.md"], "type": "single-hop"}
+{"id": "Q375", "question": "What did ADR-019 decide?", "answer": "All application secrets live in Vault with dynamic database credentials.", "sources": ["engineering/adr/adr-019-store-secrets-in-hashicorp-vault.md"], "type": "single-hop"}
+{"id": "Q376", "question": "What did ADR-020 decide?", "answer": "All LLM calls go through an internal gateway that enforces redaction and logging.", "sources": ["engineering/adr/adr-020-llm-gateway-for-all-generative-ai-calls.md"], "type": "single-hop"}
+{"id": "Q377", "question": "What is the on-call allowance for a weekend day?", "answer": "₹4,000 per weekend day or holiday", "sources": ["engineering/on-call-handbook.md"], "type": "single-hop"}
+{"id": "Q378", "question": "What was Veltrix's total revenue in FY2025 Q1?", "answer": "$15.90M", "sources": ["finance/quarterly-reports/fy2025-q1.md"], "type": "single-hop"}
+{"id": "Q379", "question": "What was PulseMonitor revenue in FY2025 Q1?", "answer": "$2.80M", "sources": ["finance/quarterly-reports/fy2025-q1.md"], "type": "single-hop"}
+{"id": "Q380", "question": "What was Veltrix's total revenue in FY2025 Q2?", "answer": "$16.72M", "sources": ["finance/quarterly-reports/fy2025-q2.md"], "type": "single-hop"}
+{"id": "Q381", "question": "What was GridWise revenue in FY2025 Q2?", "answer": "$1.49M", "sources": ["finance/quarterly-reports/fy2025-q2.md"], "type": "single-hop"}
+{"id": "Q382", "question": "What was Veltrix's total revenue in FY2025 Q3?", "answer": "$17.55M", "sources": ["finance/quarterly-reports/fy2025-q3.md"], "type": "single-hop"}
+{"id": "Q383", "question": "What was ClimaTrack revenue in FY2025 Q3?", "answer": "$0.35M", "sources": ["finance/quarterly-reports/fy2025-q3.md"], "type": "single-hop"}
+{"id": "Q384", "question": "What was Veltrix's total revenue in FY2025 Q4?", "answer": "$18.46M", "sources": ["finance/quarterly-reports/fy2025-q4.md"], "type": "single-hop"}
+{"id": "Q385", "question": "What was ShieldOps revenue in FY2025 Q4?", "answer": "$1.01M", "sources": ["finance/quarterly-reports/fy2025-q4.md"], "type": "single-hop"}
+{"id": "Q386", "question": "What was Veltrix's total revenue in FY2026 Q1?", "answer": "$19.41M", "sources": ["finance/quarterly-reports/fy2026-q1.md"], "type": "single-hop"}
+{"id": "Q387", "question": "What was PulseMonitor revenue in FY2026 Q1?", "answer": "$3.58M", "sources": ["finance/quarterly-reports/fy2026-q1.md"], "type": "single-hop"}
+{"id": "Q388", "question": "What was Veltrix's total revenue in FY2026 Q2?", "answer": "$20.39M", "sources": ["finance/quarterly-reports/fy2026-q2.md"], "type": "single-hop"}
+{"id": "Q389", "question": "What was GridWise revenue in FY2026 Q2?", "answer": "$1.90M", "sources": ["finance/quarterly-reports/fy2026-q2.md"], "type": "single-hop"}
+{"id": "Q390", "question": "What was Veltrix's total revenue in FY2026 Q3?", "answer": "$21.45M", "sources": ["finance/quarterly-reports/fy2026-q3.md"], "type": "single-hop"}
+{"id": "Q391", "question": "What was ClimaTrack revenue in FY2026 Q3?", "answer": "$0.46M", "sources": ["finance/quarterly-reports/fy2026-q3.md"], "type": "single-hop"}
+{"id": "Q392", "question": "What was Veltrix's total revenue in FY2026 Q4?", "answer": "$22.58M", "sources": ["finance/quarterly-reports/fy2026-q4.md"], "type": "single-hop"}
+{"id": "Q393", "question": "What was ShieldOps revenue in FY2026 Q4?", "answer": "$1.37M", "sources": ["finance/quarterly-reports/fy2026-q4.md"], "type": "single-hop"}
+{"id": "Q394", "question": "What was Veltrix's total revenue in FY2027 Q1?", "answer": "$23.75M", "sources": ["finance/quarterly-reports/fy2027-q1.md"], "type": "single-hop"}
+{"id": "Q395", "question": "What was PulseMonitor revenue in FY2027 Q1?", "answer": "$4.57M", "sources": ["finance/quarterly-reports/fy2027-q1.md"], "type": "single-hop"}
+{"id": "Q396", "question": "What was Veltrix's total revenue in FY2027 Q2?", "answer": "$25.00M", "sources": ["finance/quarterly-reports/fy2027-q2.md"], "type": "single-hop"}
+{"id": "Q397", "question": "What was GridWise revenue in FY2027 Q2?", "answer": "$2.42M", "sources": ["finance/quarterly-reports/fy2027-q2.md"], "type": "single-hop"}
+{"id": "Q398", "question": "What was Veltrix's total revenue for FY2026?", "answer": "$83.83M", "sources": ["finance/annual-summary-fy2026.md", "finance/quarterly-reports/fy2026-q1.md", "finance/quarterly-reports/fy2026-q2.md", "finance/quarterly-reports/fy2026-q3.md", "finance/quarterly-reports/fy2026-q4.md"], "type": "aggregation"}
+{"id": "Q399", "question": "What is the health insurance cover for employees in India?", "answer": "₹10,00,000 family floater (employee, spouse, 2 children and 2 parents/in-laws)", "sources": ["handbook/benefits.md"], "type": "single-hop"}
+{"id": "Q400", "question": "What is the ESOP vesting schedule?", "answer": "4-year vesting with a 1-year cliff; eligible after 1 year", "sources": ["handbook/benefits.md"], "type": "single-hop"}
+{"id": "Q401", "question": "Who must approve a 30% discount?", "answer": "The Regional Sales Director (20%–35% band)", "sources": ["handbook/sales-playbook.md"], "type": "single-hop"}
+{"id": "Q402", "question": "Who heads the Engineering department?", "answer": "Suresh Abraham", "sources": ["departments/engineering.md"], "type": "single-hop"}
+{"id": "Q403", "question": "How many people work in Engineering?", "answer": "56", "sources": ["departments/engineering.md"], "type": "aggregation"}
+{"id": "Q404", "question": "Who heads the Data Science department?", "answer": "Pooja Banerjee", "sources": ["departments/data-science.md"], "type": "single-hop"}
+{"id": "Q405", "question": "How many people work in Data Science?", "answer": "18", "sources": ["departments/data-science.md"], "type": "aggregation"}
+{"id": "Q406", "question": "Who heads the Product department?", "answer": "Farhan Gupta", "sources": ["departments/product.md"], "type": "single-hop"}
+{"id": "Q407", "question": "How many people work in Product?", "answer": "12", "sources": ["departments/product.md"], "type": "aggregation"}
+{"id": "Q408", "question": "Who heads the Design department?", "answer": "Lea Koch", "sources": ["departments/design.md"], "type": "single-hop"}
+{"id": "Q409", "question": "How many people work in Design?", "answer": "8", "sources": ["departments/design.md"], "type": "aggregation"}
+{"id": "Q410", "question": "Who heads the Sales department?", "answer": "Darren Chua", "sources": ["departments/sales.md"], "type": "single-hop"}
+{"id": "Q411", "question": "How many people work in Sales?", "answer": "22", "sources": ["departments/sales.md"], "type": "aggregation"}
+{"id": "Q412", "question": "Who heads the Marketing department?", "answer": "Athira Singh", "sources": ["departments/marketing.md"], "type": "single-hop"}
+{"id": "Q413", "question": "How many people work in Marketing?", "answer": "10", "sources": ["departments/marketing.md"], "type": "aggregation"}
+{"id": "Q414", "question": "Who heads the Customer Success department?", "answer": "Mei Ng", "sources": ["departments/customer-success.md"], "type": "single-hop"}
+{"id": "Q415", "question": "How many people work in Customer Success?", "answer": "18", "sources": ["departments/customer-success.md"], "type": "aggregation"}
+{"id": "Q416", "question": "Who heads the People Operations department?", "answer": "Pooja Hegde", "sources": ["departments/people-operations.md"], "type": "single-hop"}
+{"id": "Q417", "question": "How many people work in People Operations?", "answer": "8", "sources": ["departments/people-operations.md"], "type": "aggregation"}
+{"id": "Q418", "question": "Who heads the Finance department?", "answer": "Akash Saxena", "sources": ["departments/finance.md"], "type": "single-hop"}
+{"id": "Q419", "question": "How many people work in Finance?", "answer": "8", "sources": ["departments/finance.md"], "type": "aggregation"}
+{"id": "Q420", "question": "Who heads the Legal department?", "answer": "Jithin Bose", "sources": ["departments/legal.md"], "type": "single-hop"}
+{"id": "Q421", "question": "How many people work in Legal?", "answer": "4", "sources": ["departments/legal.md"], "type": "aggregation"}
+{"id": "Q422", "question": "Who heads the IT & Security department?", "answer": "Kavya Kulkarni", "sources": ["departments/it-and-security.md"], "type": "single-hop"}
+{"id": "Q423", "question": "How many people work in IT & Security?", "answer": "10", "sources": ["departments/it-and-security.md"], "type": "aggregation"}
+{"id": "Q424", "question": "Who heads the Operations department?", "answer": "Karthik Abraham", "sources": ["departments/operations.md"], "type": "single-hop"}
+{"id": "Q425", "question": "How many people work in Operations?", "answer": "6", "sources": ["departments/operations.md"], "type": "aggregation"}
+{"id": "Q426", "question": "Who is Abhishek Mathew's manager?", "answer": "Nandini Narayanan", "sources": ["employees/abhishek-mathew.md"], "type": "single-hop"}
+{"id": "Q427", "question": "Who is Varun Pandey's manager?", "answer": "Suresh Abraham", "sources": ["employees/varun-pandey.md"], "type": "single-hop"}
+{"id": "Q428", "question": "Who is Farhan Kurian's manager?", "answer": "Akash Saxena", "sources": ["employees/farhan-kurian.md"], "type": "single-hop"}
+{"id": "Q429", "question": "Who is Gopika Das's manager?", "answer": "Lakshmi Varghese", "sources": ["employees/gopika-das.md"], "type": "single-hop"}
+{"id": "Q430", "question": "Who is Anand Krishnan's manager?", "answer": "Aswin Joshi", "sources": ["employees/anand-krishnan.md"], "type": "single-hop"}
+{"id": "Q431", "question": "Who is Felix Koch's manager?", "answer": "Revathi Narayanan", "sources": ["employees/felix-koch.md"], "type": "single-hop"}
+{"id": "Q432", "question": "Who is Reshma Mathew's manager?", "answer": "Suresh Abraham", "sources": ["employees/reshma-mathew.md"], "type": "single-hop"}
+{"id": "Q433", "question": "Who is Lea Koch's manager?", "answer": "Sarah Lindqvist", "sources": ["employees/lea-koch.md"], "type": "single-hop"}
+{"id": "Q434", "question": "Who is Rajan Goh's manager?", "answer": "Sachin Iyer", "sources": ["employees/rajan-goh.md"], "type": "single-hop"}
+{"id": "Q435", "question": "Who is Tanvi Mathew's manager?", "answer": "Amit Chandran", "sources": ["employees/tanvi-mathew.md"], "type": "single-hop"}
+{"id": "Q436", "question": "Who is Deepa Patel's manager?", "answer": "Varun Pandey", "sources": ["employees/deepa-patel.md"], "type": "single-hop"}
+{"id": "Q437", "question": "Who is Fathima Banerjee's manager?", "answer": "Fathima Gupta", "sources": ["employees/fathima-banerjee.md"], "type": "single-hop"}
+{"id": "Q438", "question": "Who is Aswin Varghese's manager?", "answer": "Rajesh Nair", "sources": ["employees/aswin-varghese.md"], "type": "single-hop"}
+{"id": "Q439", "question": "Who is Daniel Ortiz's manager?", "answer": "Ananya Rao", "sources": ["employees/daniel-ortiz.md"], "type": "single-hop"}
+{"id": "Q440", "question": "Who is Rajesh Nair's manager?", "answer": "Lea Koch", "sources": ["employees/rajesh-nair.md"], "type": "single-hop"}
+{"id": "Q441", "question": "Who is Gaurav Saxena's manager?", "answer": "Anand Saxena", "sources": ["employees/gaurav-saxena.md"], "type": "single-hop"}
+{"id": "Q442", "question": "Who is Vishnu Nair's manager?", "answer": "Meghna Krishnan", "sources": ["employees/vishnu-nair.md"], "type": "single-hop"}
+{"id": "Q443", "question": "Who is Hannah Schmidt's manager?", "answer": "Mei Lee", "sources": ["employees/hannah-schmidt.md"], "type": "single-hop"}
+{"id": "Q444", "question": "Who is Pooja Banerjee's manager?", "answer": "Vikram Menon", "sources": ["employees/pooja-banerjee.md"], "type": "single-hop"}
+{"id": "Q445", "question": "Who is Suresh Kulkarni's manager?", "answer": "Varun Pandey", "sources": ["employees/suresh-kulkarni.md"], "type": "single-hop"}
+{"id": "Q446", "question": "Who is Reshma Narayanan's manager?", "answer": "Revathi Narayanan", "sources": ["employees/reshma-narayanan.md"], "type": "single-hop"}
+{"id": "Q447", "question": "Who is Rajesh Thomas's manager?", "answer": "Amit Chandran", "sources": ["employees/rajesh-thomas.md"], "type": "single-hop"}
+{"id": "Q448", "question": "Who is Sophie Hoffmann's manager?", "answer": "Rajesh Nair", "sources": ["employees/sophie-hoffmann.md"], "type": "single-hop"}
+{"id": "Q449", "question": "Who is Darren Chua's manager?", "answer": "Daniel Ortiz", "sources": ["employees/darren-chua.md"], "type": "single-hop"}
+{"id": "Q450", "question": "Who is Ashley Garcia's manager?", "answer": "Sachin Menon", "sources": ["employees/ashley-garcia.md"], "type": "single-hop"}
+{"id": "Q451", "question": "Which office does Kai Wong work in and what is their role?", "answer": "Singapore; Product Marketing Manager (Marketing)", "sources": ["employees/kai-wong.md"], "type": "single-hop"}
+{"id": "Q452", "question": "Which office does Charmaine Koh work in and what is their role?", "answer": "Singapore; Sales Development Representative (Sales)", "sources": ["employees/charmaine-koh.md"], "type": "single-hop"}
+{"id": "Q453", "question": "Which office does Brandon Miller work in and what is their role?", "answer": "Austin; Customer Success Manager (Customer Success)", "sources": ["employees/brandon-miller.md"], "type": "single-hop"}
+{"id": "Q454", "question": "Which office does Bhavana Nair work in and what is their role?", "answer": "Bengaluru; Staff Engineer (Engineering)", "sources": ["employees/bhavana-nair.md"], "type": "single-hop"}
+{"id": "Q455", "question": "Which office does Sarah Lindqvist work in and what is their role?", "answer": "Berlin; Chief Product Officer (Executive Leadership)", "sources": ["employees/sarah-lindqvist.md"], "type": "single-hop"}
+{"id": "Q456", "question": "Which office does Fathima Pillai work in and what is their role?", "answer": "Kochi; Senior Data Scientist (Data Science)", "sources": ["employees/fathima-pillai.md"], "type": "single-hop"}
+{"id": "Q457", "question": "Which office does Anand Saxena work in and what is their role?", "answer": "Pune; Engineering Manager (Engineering)", "sources": ["employees/anand-saxena.md"], "type": "single-hop"}
+{"id": "Q458", "question": "Which office does Hui Min Ng work in and what is their role?", "answer": "Singapore; Account Executive (Sales)", "sources": ["employees/hui-min-ng.md"], "type": "single-hop"}
+{"id": "Q459", "question": "Which office does Amit Chandran work in and what is their role?", "answer": "Pune; Engineering Manager (Engineering)", "sources": ["employees/amit-chandran.md"], "type": "single-hop"}
+{"id": "Q460", "question": "Which office does Shreya Mehta work in and what is their role?", "answer": "Kochi; Product Manager (Product)", "sources": ["employees/shreya-mehta.md"], "type": "single-hop"}
+{"id": "Q461", "question": "Which office does Aditya Iyer work in and what is their role?", "answer": "Kochi; L&D Specialist (People Operations)", "sources": ["employees/aditya-iyer.md"], "type": "single-hop"}
+{"id": "Q462", "question": "Which office does Anand Gupta work in and what is their role?", "answer": "Pune; Solutions Engineer (Sales)", "sources": ["employees/anand-gupta.md"], "type": "single-hop"}
+{"id": "Q463", "question": "Which office does Hannah Schmidt work in and what is their role?", "answer": "Berlin; Senior Account Executive (Sales)", "sources": ["employees/hannah-schmidt.md"], "type": "single-hop"}
+{"id": "Q464", "question": "Which office does Tyler Miller work in and what is their role?", "answer": "Austin; Senior Account Executive (Sales)", "sources": ["employees/tyler-miller.md"], "type": "single-hop"}
+{"id": "Q465", "question": "Which office does Anand Kulkarni work in and what is their role?", "answer": "Kochi; Senior Account Executive (Sales)", "sources": ["employees/anand-kulkarni.md"], "type": "single-hop"}
+{"id": "Q466", "question": "What is the email address of the manager of the person who leads Project Granite?", "answer": "suresh.abraham@veltrix.io", "sources": ["projects/prj-2024-110-granite.md", "employees/amit-chandran.md", "employees/suresh-abraham.md"], "type": "multi-hop"}
+{"id": "Q467", "question": "What is the email address of the manager of the person who leads Project Beacon Ridge?", "answer": "suresh.abraham@veltrix.io", "sources": ["projects/prj-2025-131-beacon-ridge.md", "employees/anand-saxena.md", "employees/suresh-abraham.md"], "type": "multi-hop"}
+{"id": "Q468", "question": "What is the email address of the manager of the person who leads Project Cinder?", "answer": "suresh.abraham@veltrix.io", "sources": ["projects/prj-2024-132-cinder.md", "employees/nandini-narayanan.md", "employees/suresh-abraham.md"], "type": "multi-hop"}
+{"id": "Q469", "question": "What is the email address of the manager of the person who leads Project Vantage?", "answer": "suresh.abraham@veltrix.io", "sources": ["projects/prj-2024-125-vantage.md", "employees/nandini-narayanan.md", "employees/suresh-abraham.md"], "type": "multi-hop"}
+{"id": "Q470", "question": "What is the email address of the manager of the person who leads Project Umbra?", "answer": "suresh.abraham@veltrix.io", "sources": ["projects/prj-2024-124-umbra.md", "employees/varun-pandey.md", "employees/suresh-abraham.md"], "type": "multi-hop"}
+{"id": "Q471", "question": "What is the email address of the manager of the person who leads Project Saffron?", "answer": "sachin.menon@veltrix.io", "sources": ["projects/prj-2024-122-saffron.md", "employees/deepa-pillai.md", "employees/sachin-menon.md"], "type": "multi-hop"}
+{"id": "Q472", "question": "What is the email address of the manager of the person who leads Project Lumen?", "answer": "suresh.abraham@veltrix.io", "sources": ["projects/prj-2025-115-lumen.md", "employees/varun-pandey.md", "employees/suresh-abraham.md"], "type": "multi-hop"}
+{"id": "Q473", "question": "What is the email address of the manager of the person who leads Project Monsoon?", "answer": "sachin.menon@veltrix.io", "sources": ["projects/prj-2025-116-monsoon.md", "employees/ashley-garcia.md", "employees/sachin-menon.md"], "type": "multi-hop"}
+{"id": "Q474", "question": "Who is the product owner of the most recently listed product used by Deccan Cement Corporation (SentryVision)?", "answer": "Aswin Abraham", "sources": ["customers/deccan-cement-corporation.md", "products/sentryvision/overview.md"], "type": "multi-hop"}
+{"id": "Q475", "question": "Who is the product owner of the most recently listed product used by Alpenmilch Molkerei eG (FlowSense)?", "answer": "Ashley Garcia", "sources": ["customers/alpenmilch-molkerei-eg.md", "products/flowsense/overview.md"], "type": "multi-hop"}
+{"id": "Q476", "question": "Who is the product owner of the most recently listed product used by Great Lakes Paper Co. (PulseMonitor)?", "answer": "Deepa Pillai", "sources": ["customers/great-lakes-paper-co.md", "products/pulsemonitor/overview.md"], "type": "multi-hop"}
+{"id": "Q477", "question": "Who is the product owner of the most recently listed product used by Andhra Power Generation Co. (FlowSense)?", "answer": "Ashley Garcia", "sources": ["customers/andhra-power-generation-co.md", "products/flowsense/overview.md"], "type": "multi-hop"}
+{"id": "Q478", "question": "Who is the product owner of the most recently listed product used by Sahyadri Water Board (ForgeML)?", "answer": "Akash Das", "sources": ["customers/sahyadri-water-board.md", "products/forgeml/overview.md"], "type": "multi-hop"}
+{"id": "Q479", "question": "Who is the product owner of the most recently listed product used by Pacific Rim Semiconductors (FlowSense)?", "answer": "Ashley Garcia", "sources": ["customers/pacific-rim-semiconductors.md", "products/flowsense/overview.md"], "type": "multi-hop"}
+{"id": "Q480", "question": "Which office is the incident commander for INC-2026-0056 based in?", "answer": "Bengaluru (Arjun Abraham)", "sources": ["incidents/inc-2026-0056.md", "employees/arjun-abraham.md"], "type": "multi-hop"}
+{"id": "Q481", "question": "Which office is the incident commander for INC-2025-0055 based in?", "answer": "Pune (Abhishek Mathew)", "sources": ["incidents/inc-2025-0055.md", "employees/abhishek-mathew.md"], "type": "multi-hop"}
+{"id": "Q482", "question": "Which office is the incident commander for INC-2026-0050 based in?", "answer": "Pune (Midhun Nair)", "sources": ["incidents/inc-2026-0050.md", "employees/midhun-nair.md"], "type": "multi-hop"}
+{"id": "Q483", "question": "Which office is the incident commander for INC-2026-0041 based in?", "answer": "Pune (Sneha Das)", "sources": ["incidents/inc-2026-0041.md", "employees/sneha-das.md"], "type": "multi-hop"}
+{"id": "Q484", "question": "Which office is the incident commander for INC-2025-0044 based in?", "answer": "Pune (Abhishek Mathew)", "sources": ["incidents/inc-2025-0044.md", "employees/abhishek-mathew.md"], "type": "multi-hop"}
+{"id": "Q485", "question": "Which customers have a Red health score?", "answer": "Port of Visakha Terminals, Gulf Coast Polymers Inc., Vasco Brewing Company", "sources": ["customers/index.md"], "type": "aggregation"}
+{"id": "Q486", "question": "How many projects are currently In Progress?", "answer": "4", "sources": ["projects/portfolio.md"], "type": "aggregation"}
+{"id": "Q487", "question": "What is the capital of France?", "answer": "Not answerable from the corpus (out-of-scope question; a good RAG system should say it doesn't know or answer without citing company docs).", "sources": [], "type": "unanswerable"}
+{"id": "Q488", "question": "What is Veltrix's policy on pets in the office?", "answer": "Not covered by any document in the corpus.", "sources": [], "type": "unanswerable"}

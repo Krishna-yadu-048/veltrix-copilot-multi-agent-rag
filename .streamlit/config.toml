@@ -1,0 +1,32 @@
+[server]
+# Localhost only: the UI is not reachable from other devices on your network.
+address = "127.0.0.1"
+port = 8501
+headless = true
+
+[browser]
+# Do not send anonymous usage statistics.
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+# Veltrix Copilot brand theme. Light or dark follows the computer's setting until you pick one on the
+# Status page (the browser remembers the choice).
+[theme]
+primaryColor = "#3047C9"
+borderRadius = "medium"
+showSidebarBorder = true
+font = "sans-serif"
+
+[theme.light]
+primaryColor = "#3047C9"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F5FA"
+textColor = "#1B2333"
+
+[theme.dark]
+primaryColor = "#7C8CFF"
+backgroundColor = "#0F1420"
+secondaryBackgroundColor = "#182033"
+textColor = "#E6E9F2"
